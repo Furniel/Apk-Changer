@@ -1,1 +1,26 @@
-Progect description will be here
+Apk changer is a command line program for modifying apk files. It`s similar to apk manager, but have more options.
+
+Features: 
+ - Normal and Advanced Mode.
+ - Multicore support(much faster than oher tools in batch operations and image optimization) - supports up to 6 cores
+ - Decompile/Compile selected part of apk's.(Batch mode supported, framework dependent decompiling supported too)
+ - Optimize pngs inside apk's(including .9.pngs).(Batch mode supported)
+ - Zipalign apks
+ - Sign apks(Batch mode supported)
+ - Adb logcat with logcat options(via WiFi or usb cable)
+ - Two versions of apktool and aapt(1.4.3 and 1.3.1)-if error occurs while decompiling my program will try too use alternative version and will compile your apk with that version that was used for decompiling
+ - Three languages at the moment(Russian, English and Dutch) - if you want to translate my progam into your own language just let me know
+ - Settings (Compression level, Heap size, optimization level, apktool version, language...) - program saves all settings - no need to enter them every time you starts it.
+ - Error detection. If error occured, program reports about it
+ - Log (For batch Decompilation/Compilation program creates two logs. First is full and second shows only in with what apks occured errors).
+ - Decompile/Compile jar files(framework files)
+ - Decompile/Compile m10 files
+ - All stuff i forgot
+ - If you need other functions - let me know and i`ll try to add them in future versions
+
+Credits: 
+ Brut.all for apktool
+ Igor Pavlov for 7zip
+ Google for Android, aapt, adb and zipaling
+ DiamondBack2010 and Flemmard for m10 tools
+ 
