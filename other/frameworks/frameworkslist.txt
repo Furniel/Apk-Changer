@@ -1,0 +1,11 @@
+#framework name|framework tag|framework1 file name|framework2 file name|framework3 file name
+DEFAULT|def|framework-res_def.apk|no|no
+CM 7|cm7|framework-res_cm7.apk|no|no
+HONEYCOMB|honeycomb|framework-res_honeycomb.apk|no|no
+ICECREAM|icecream|framework-res_icecream.apk|no|no
+MIUI|miui|framework-res_miui.apk|no|no
+MIUI4|miui4|framework-res_miui4.apk|framework-miui-res.apk|no
+SENSE 1.9|htc|framework-res_htc.apk|com.htc.resources.apk|no
+SENSE 2.1|htc21|framework-res_htc_21.apk|com.htc.resources_21.apk|no
+SENSE 3.6|htc36|framework-res_htc_36.apk|com.htc.resources_36.apk|no
+SENSE 4|htc4|framework-res_htc_4.apk|com.htc.resources_4.apk|no
