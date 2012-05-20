@@ -1,0 +1,35 @@
+Settings
+1)Compression level:
+-Global compression level - compression level for most of files inside apk
+-Image compression - compression level for image files(such as png, jpg) - recomended 0,
+images are already compressed files, so they don`t need compression
+-Xml compression - compression for xml files
+-Dex compression - compression for dex file(consist of smali-files, when unpacked)
+-ARSC compression - compression for arsc file(consist of values files)
+
+2)Cache size - java heap size
+3)Optimization level - optimization level for images inside apk
+-9 is the best optimization level - but it the most slow, 1 - lowest optimization level, but the most fast.
+4)Apktool - select version of apktool which you want use as default
+5)Language - select language of a program
+6)Connect adb to wifi - you can connect adb via wifi to your phone & install programs, use logcat via wifi
+7)Delete language files - you can turn this on for autodeleting unneeded language file from apk
+Language folders which will be deleted defined in langfolders file - you can find it in other folder
+8)Framework version - here you can select framework which wiil be used as default fo decompiling apks.
+list of frameworks defined in frameworkslist.txt in other\frameworks folder.
+You can add there your own frameworks or delete default.
+Example:
+We will add htc framework from your own htc rom:
+-Copy all apk files from system framework folder(you can rename them as you wish, but don`t use spaces) to other frameworks folder in the program
+In my rom i have framework-res.apk & com.htc.resources.apk. I`ll rename them to framework-res_my.apk & com.htc.resources_my.apk
+-Now we must add our frameworks to frameworkslist.txt.
+Open frameworkslist.txt with text editor. Now we must add framework name(will be shown in program - i will use MY ROM), than |,
+framework tag(apktool will use it - don`t use spaces here. I wiil use my), again |, than you must add three framework names which you copied before  - if you have
+only one or two frameworks - write no.
+As result we have such line in frameworkslist.txt
+MY ROM|my|framework-res_my.apk|com.htc.resources_my.apk|no
+-Now open program, goto settings, select Framework version and reinstall framework files after this you can select your framework in the program
+9)Signature key - key which will be used for apk signing
+10)Text color - color of the text which program will use
+11)Notifications - turn on or off program notifications
+
