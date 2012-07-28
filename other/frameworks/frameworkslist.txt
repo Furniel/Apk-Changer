@@ -10,9 +10,6 @@ ANDROID 2.2|api8|framework-res_api8.apk|no|no
 ANDROID 2.1|api7|framework-res_api7.apk|no|no
 ANDROID 1.6|api4|framework-res_api4.apk|no|no
 ANDROID 1.5|api3|framework-res_api3.apk|no|no
-CM 7|cm7|framework-res_cm7.apk|no|no
-HONEYCOMB|honeycomb|framework-res_honeycomb.apk|no|no
-ICECREAM|icecream|framework-res_icecream.apk|no|no
 MIUI|miui|framework-res_miui.apk|no|no
 MIUI4|miui4|framework-res_miui4.apk|framework-miui-res.apk|no
 SENSE 1.9|htc|framework-res_htc.apk|com.htc.resources.apk|no
