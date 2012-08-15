@@ -138,3 +138,5 @@ cmf=Current m10 file
 blue=Blue
 red=Red
 lilac=Lilac
+opt9p=Optimize 9.png files
+optsf=Optimize small files(smaller than 1kb)
