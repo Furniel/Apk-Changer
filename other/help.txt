@@ -24,11 +24,11 @@ We will add htc framework from my own htc rom:
 In my rom i have framework-res.apk & com.htc.resources.apk. I`ll rename them to framework-res_my.apk & com.htc.resources_my.apk
 -Now we must add our frameworks to frameworkslist.txt.
 Open frameworkslist.txt with text editor. Now we must add framework name(will be shown in program - i will use "MY ROM"), then |,
-framework tag(apktool will use it - don`t use spaces here. I wiil use "my"), again |, then you must add six framework names which you copied before  - if you have
+framework tag(apktool will use it - don`t use spaces here. I wiil use "my"), again |, then you must add eight framework names which you copied before  - if you have
 only one or two frameworks - write no.
 As result we have such line in frameworkslist.txt:
 
-MY ROM|my|framework-res_my.apk|com.htc.resources_my.apk|no|no|no|no
+MY ROM|my|framework-res_my.apk|com.htc.resources_my.apk|no|no|no|no|no|no
 
 -Now open program, goto settings, select Framework version and reinstall framework files after this you can select your framework in the program
 9)Signature key - key which will be used for apk signing
