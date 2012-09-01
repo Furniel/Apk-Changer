@@ -1,18 +1,18 @@
-#framework name|framework tag|framework1 file name|framework2 file name|framework3 file name
-ANDROID 4.1|api16|framework-res_api16.apk|no|no
-ANDROID 4.0.3|api15|framework-res_api15.apk|no|no
-ANDROID 4.0|api14|framework-res_api14.apk|no|no
-ANDROID 3.2|api13|framework-res_api13.apk|no|no
-ANDROID 3.1|api12|framework-res_api12.apk|no|no
-ANDROID 3.0|api11|framework-res_api11.apk|no|no
-ANDROID 2.3.3|api10|framework-res_api10.apk|no|no
-ANDROID 2.2|api8|framework-res_api8.apk|no|no
-ANDROID 2.1|api7|framework-res_api7.apk|no|no
-ANDROID 1.6|api4|framework-res_api4.apk|no|no
-ANDROID 1.5|api3|framework-res_api3.apk|no|no
-MIUI|miui|framework-res_miui.apk|no|no
-MIUI4|miui4|framework-res_miui4.apk|framework-miui-res.apk|no
-SENSE 1.9|htc|framework-res_htc.apk|com.htc.resources.apk|no
-SENSE 2.1|htc21|framework-res_htc_21.apk|com.htc.resources_21.apk|no
-SENSE 3.6|htc36|framework-res_htc_36.apk|com.htc.resources_36.apk|no
-SENSE 4|htc4|framework-res_htc_4.apk|com.htc.resources_4.apk|no
+#framework name|framework tag|framework1 file name|framework2 file name|framework3 file name|framework4 file name|framework5 file name|framework6 file name
+ANDROID 4.1|api16|framework-res_api16.apk|no|no|no|no|no
+ANDROID 4.0.3|api15|framework-res_api15.apk|no|no|no|no|no
+ANDROID 4.0|api14|framework-res_api14.apk|no|no|no|no|no
+ANDROID 3.2|api13|framework-res_api13.apk|no|no|no|no|no
+ANDROID 3.1|api12|framework-res_api12.apk|no|no|no|no|no
+ANDROID 3.0|api11|framework-res_api11.apk|no|no|no|no|no
+ANDROID 2.3.3|api10|framework-res_api10.apk|no|no|no|no|no
+ANDROID 2.2|api8|framework-res_api8.apk|no|no|no|no|no
+ANDROID 2.1|api7|framework-res_api7.apk|no|no|no|no|no
+ANDROID 1.6|api4|framework-res_api4.apk|no|no|no|no|no
+ANDROID 1.5|api3|framework-res_api3.apk|no|no|no|no|no
+MIUI|miui|framework-res_miui.apk|no|no|no|no|no
+MIUI4|miui4|framework-res_miui4.apk|framework-miui-res.apk|no|no|no|no
+SENSE 1.9|htc|framework-res_htc.apk|com.htc.resources.apk|no|no|no|no
+SENSE 2.1|htc21|framework-res_htc_21.apk|com.htc.resources_21.apk|no|no|no|no
+SENSE 3.6|htc36|framework-res_htc_36.apk|com.htc.resources_36.apk|no|no|no|no
+SENSE 4|htc4|framework-res_htc_4.apk|com.htc.resources_4.apk|no|no|no|no
