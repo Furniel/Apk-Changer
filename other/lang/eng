@@ -140,3 +140,5 @@ zipapkfilef=Zipalign apk
 recompressapkf=Recompress apk with 7zip
 repoapkf=Replace original apk
 upset=Use previos settings
+dd2java=Decompile dex2java
+clim=Cores\threads limit

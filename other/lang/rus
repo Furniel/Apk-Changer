@@ -140,3 +140,5 @@ zipapkfilef=Zipalign
 recompressapkf=Пережать приложение с помощью 7zip
 repoapkf=Заменить оригинальный файл
 upset=Использовать старые настройки
+dd2java=Декомпилировать dex в java
+clim=Лимит ядер\потоков
