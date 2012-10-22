@@ -8,6 +8,7 @@ other\advdef.exe
 other\apktool1.jar 
 other\apktool2.jar 
 other\baksmali.jar 
+other\check.list 
 other\decompall.exe 
 other\DeflOpt.exe 
 other\deo.exe 
@@ -291,11 +292,11 @@ other\lang\eng
 other\lang\rus 
 other\lib\asm-all-3.3.1.jar 
 other\lib\commons-cli-1.2.jar 
-other\lib\commons-lite-1.10.jar 
-other\lib\dex-ir-1.7.jar 
-other\lib\dex-reader-1.10.jar 
-other\lib\dex-tools-0.0.0.5.jar 
-other\lib\dex-translator-0.0.9.9.jar 
+other\lib\commons-lite-1.11.jar 
+other\lib\dex-ir-1.8.jar 
+other\lib\dex-reader-1.11.jar 
+other\lib\dex-tools-0.0.0.6.jar 
+other\lib\dex-translator-0.0.9.10.jar 
 other\lib\jasmin-p2.5.jar 
-other\lib\p-rename-1.1.jar 
+other\lib\p-rename-1.3.jar 
 other\sett\placeholder 
