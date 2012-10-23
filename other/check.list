@@ -24,7 +24,6 @@ other\jadretro.exe
 other\jpegoptim.exe 
 other\jpegtran.exe 
 other\jre-7u5-windows-i586-iftw.exe 
-other\langfolders 
 other\libgcc_s_dw2-1.dll 
 other\libpng14.dll 
 other\libstdc++-6.dll 
@@ -54,6 +53,7 @@ other\testkey.pk8
 other\testkey.sbt 
 other\testkey.x509.pem 
 other\TruePNG.exe 
+other\ufl 
 other\wait.exe 
 other\wget.exe 
 other\wtee.exe 
