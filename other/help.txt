@@ -13,8 +13,15 @@ images are already compressed files, so they don`t need compression
 4)Apktool - select version of apktool which you want use as default
 5)Language - select language of a program
 6)Connect adb to wifi - you can connect adb via wifi to your phone & install programs, use logcat via wifi
-7)Delete language files - you can turn this on for autodeleting unneeded language file from apk
-Language folders which will be deleted defined in langfolders file - you can find it in other folder
+7)Delete unnecessary files - you can turn this option on for autodeleting unneeded files from apk.
+Folders which will be deleted defined in ufl file (unnecessary folder list) - you can find it in other\fl folder and edit with any text editor(in this file
+can be defined any folders – you can delete languages, images and so on. )
+Example: If you have device with hdpi resolution and you don`t need ldpi, mdpi and xhdpi support in apk – 
+you can define drawable-ldpi, drawable-mdpi and drawable-xhdpi folders in ufl list. If you don`t need Russian translation in apk – you can define values-ru folder in ufl file.
+You can create custom ufl file for apk files, that will overwrite  default list( For this you must create new file(or copy default list) and rename it as: 
+file name + _ + ufl . 
+Example: If you want create custom list for Phone.apk you should create Phone_ufl file in other\fl folder and define there all folders that you want to delete.
+Program will notify you that custom lis found – it will show “Found custom unnecessary folder list for Phone.apk” during decompilation. )
 8)Framework version - here you can select framework which will be used as default for decompiling apks.
 list of frameworks defined in frameworkslist.txt in other\frameworks folder.
 You can add there your own frameworks(up to six files – miui has six framework files, new htc roms has four) or delete default.
