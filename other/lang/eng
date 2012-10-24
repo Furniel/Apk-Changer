@@ -159,3 +159,4 @@ hmcdywtu=How many cores do you want to use
 ioptlev=Image optimization level
 selcol=Select color
 ddexjava=Decompile dex to java
+zipallapk=Zipalign all apks

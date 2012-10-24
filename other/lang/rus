@@ -159,3 +159,4 @@ hmcdywtu=Сколько ядер вы хотите использовать
 ioptlev=Уровень оптимизации изображений
 selcol=Выберите цвет
 ddexjava=Декомпилировать dex в java
+zipallapk=Zipalign все apk файлы
