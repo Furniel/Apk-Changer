@@ -1,4 +1,5 @@
 #framework name|framework tag|framework1 file name|framework2 file name|framework3 file name|framework4 file name|framework5 file name|framework6 file name|framework7 file name|framework8 file name
+ANDROID 4.2|api17|framework-res_api17.apk|no|no|no|no|no|no|no
 ANDROID 4.1|api16|framework-res_api16.apk|no|no|no|no|no|no|no
 ANDROID 4.0.3|api15|framework-res_api15.apk|no|no|no|no|no|no|no
 ANDROID 4.0|api14|framework-res_api14.apk|no|no|no|no|no|no|no
