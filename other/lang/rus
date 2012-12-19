@@ -160,3 +160,4 @@ ioptlev=Уровень оптимизации изображений
 selcol=Выберите цвет
 ddexjava=Декомпилировать dex в java
 zipallapk=Zipalign все apk файлы
+uiocftsav=Использовать кеш изображений только для той же версии apk
