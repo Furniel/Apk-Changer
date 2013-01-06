@@ -162,3 +162,4 @@ ddexjava=Decompile dex to java
 zipallapk=Zipalign all apks
 uiocftsav=Use image cache only for the same apk version
 djf=Decompile jar files?
+kosiapk=Keep original signature
