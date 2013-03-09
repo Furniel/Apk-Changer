@@ -26,7 +26,7 @@ other\jad.exe
 other\jadretro.exe
 other\jpegoptim.exe
 other\jpegtran.exe
-other\jre-7u5-windows-i586-iftw.exe
+other\jre-7u11-windows-i586-iftw.exe
 other\libgcc_s_dw2-1.dll
 other\libpng15.dll
 other\libstdc++-6.dll
@@ -284,11 +284,11 @@ other\lang\eng
 other\lang\rus
 other\lib\asm-all-3.3.1.jar
 other\lib\commons-cli-1.2.jar
-other\lib\commons-lite-1.13.jar
-other\lib\dex-ir-1.10.jar
-other\lib\dex-reader-1.13.jar
-other\lib\dex-tools-0.0.9.12.jar
-other\lib\dex-translator-0.0.9.12.jar
+other\lib\commons-lite-1.14.jar
+other\lib\dex-ir-1.11.jar
+other\lib\dex-reader-1.14.jar
+other\lib\dex-tools-0.0.9.13.jar
+other\lib\dex-translator-0.0.9.13.jar
 other\lib\dx.jar
-other\lib\jar-rename-1.4.jar
+other\lib\jar-rename-1.5.jar
 other\lib\jasmin-p2.5.jar

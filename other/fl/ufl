@@ -836,3 +836,7 @@ xml-tr
 xml-zh
 xml-zh-rHK
 xml-zh-rTW
+mipmap-ldpi
+mipmap-mdpi
+mipmap-xhdpi
+drawable-xhdpi
