@@ -166,3 +166,4 @@ kosiapk=Keep original signature
 delof=Delete original files if compilation successful?
 brut=Use brutforce
 btutedesc=Try different frameworks if we can`t decompile apk with default framework
+ssmali=Smali version
