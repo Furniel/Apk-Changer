@@ -8,12 +8,15 @@ other\advdef.exe
 other\android.jar
 other\apktool1.jar
 other\apktool2.jar
+other\apktool3.jar
 other\baksmali.jar
+other\baksmali2.jar
 other\check.list
 other\classes.pro
 other\decompall.exe
 other\DeflOpt.exe
 other\deo.exe
+other\fernflower.jar
 other\finddupe.exe
 other\find_java.exe
 other\fix_plurals.pl
@@ -26,9 +29,9 @@ other\jad.exe
 other\jadretro.exe
 other\jpegoptim.exe
 other\jpegtran.exe
-other\jre-7u11-windows-i586-iftw.exe
+other\jre-7u40-windows-i586-iftw.exe
 other\libgcc_s_dw2-1.dll
-other\libpng15.dll
+other\libpng16.dll
 other\libstdc++-6.dll
 other\media.pk8
 other\media.sbt
@@ -53,6 +56,7 @@ other\shared.sbt
 other\shared.x509.pem
 other\signapk.jar
 other\smali.jar
+other\smali2.jar
 other\smali_npp.xml
 other\strict.pm
 other\testkey.pk8
