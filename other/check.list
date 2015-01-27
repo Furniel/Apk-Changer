@@ -30,7 +30,7 @@ other\jad.exe
 other\jadretro.exe
 other\jpegoptim.exe
 other\jpegtran.exe
-other\jre-7u40-windows-i586-iftw.exe
+other\jre-8u31-windows-i586-iftw.exe
 other\libgcc_s_dw2-1.dll
 other\libpng16.dll
 other\libstdc++-6.dll
@@ -38,6 +38,7 @@ other\media.pk8
 other\media.sbt
 other\media.x509.pem
 other\mgwz.dll
+other\mozjpegtran.exe
 other\nhrplc.exe
 other\notifu.exe
 other\opt.exe
