@@ -177,5 +177,5 @@ ifnwbdis=Input framework name(Will be displayed in settings)
 frname=framework name
 iftwbubaccs=Input framework tag(Will be used by apktool. Can`t contain spaces)
 frtag=framework tag
-
-
+ffi=Framework file installed.
+dyhoff=Do you have other framework files?
