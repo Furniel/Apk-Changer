@@ -188,3 +188,4 @@ covf=Compress video files?
 coxf=Compress xml files?
 codf=Compress dex files?
 coarf=Compress arsc files?
+sstjdm=Select smali to java decompilation method
