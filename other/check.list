@@ -1,300 +1,349 @@
-other\7z.dll
-other\7za.exe
-other\aapt.exe
-other\adb.exe
-other\AdbWinApi.dll
-other\AdbWinUsbApi.dll
-other\advdef.exe
-other\android.jar
-other\apktool1.jar
-other\apktool2.jar
-other\apktool3.jar
-other\baksmali.jar
-other\baksmali2.jar
-other\check.list
-other\classes.pro
-other\decompall.exe
-other\DeflOpt.exe
-other\deo.exe
-other\fernflower.jar
-other\finddupe.exe
-other\find_java.exe
-other\fix_plurals.pl
-other\fix_plurals2.pl
-other\grep.exe
-other\gsar.exe
-other\help.docx
-other\help.txt
-other\inifile.exe
-other\jad.exe
-other\jadretro.exe
-other\jpegoptim.exe
-other\jpegtran.exe
-other\jre-8u31-windows-i586-iftw.exe
-other\libgcc_s_dw2-1.dll
-other\libpng16.dll
-other\libstdc++-6.dll
-other\media.pk8
-other\media.sbt
-other\media.x509.pem
-other\mgwz.dll
-other\mozjpegtran.exe
-other\nhrplc.exe
-other\notifu.exe
-other\opt.exe
-other\optall.exe
-other\perl.exe
-other\platform.pk8
-other\platform.sbt
-other\platform.x509.pem
-other\pngquant.exe
-other\pngwolf.exe
-other\Print.class
-other\proguard.jar
-other\settings.ini
-other\setx.exe
-other\shared.pk8
-other\shared.sbt
-other\shared.x509.pem
-other\signapk.jar
-other\smali.jar
-other\smali2.jar
-other\smali_npp.xml
-other\strict.pm
-other\testkey.pk8
-other\testkey.sbt
-other\testkey.x509.pem
-other\TruePNG.exe
-other\wait.exe
-other\wget.exe
-other\wtee.exe
-other\zipalign.exe
-other\zlib.dll
-other\zlib1.dll
-other\coloredlogcat\abc.pyc
-other\coloredlogcat\atexit.pyc
-other\coloredlogcat\base64.pyc
-other\coloredlogcat\bdb.pyc
-other\coloredlogcat\bisect.pyc
-other\coloredlogcat\bz2.pyc
-other\coloredlogcat\bz2.pyd
-other\coloredlogcat\calendar.pyc
-other\coloredlogcat\cmd.pyc
-other\coloredlogcat\codecs.pyc
-other\coloredlogcat\collections.pyc
-other\coloredlogcat\coloredlogcat.py
-other\coloredlogcat\color_console.py
-other\coloredlogcat\color_console.pyc
-other\coloredlogcat\copy.pyc
-other\coloredlogcat\copy_reg.pyc
-other\coloredlogcat\difflib.pyc
-other\coloredlogcat\dis.pyc
-other\coloredlogcat\doctest.pyc
-other\coloredlogcat\dummy_thread.pyc
-other\coloredlogcat\fnmatch.pyc
-other\coloredlogcat\functools.pyc
-other\coloredlogcat\genericpath.pyc
-other\coloredlogcat\getopt.pyc
-other\coloredlogcat\gettext.pyc
-other\coloredlogcat\heapq.pyc
-other\coloredlogcat\inspect.pyc
-other\coloredlogcat\keyword.pyc
-other\coloredlogcat\linecache.pyc
-other\coloredlogcat\locale.pyc
-other\coloredlogcat\ntpath.pyc
-other\coloredlogcat\opcode.pyc
-other\coloredlogcat\optparse.pyc
-other\coloredlogcat\os.pyc
-other\coloredlogcat\os2emxpath.pyc
-other\coloredlogcat\pdb.pyc
-other\coloredlogcat\pickle.pyc
-other\coloredlogcat\posixpath.pyc
-other\coloredlogcat\pprint.pyc
-other\coloredlogcat\python.exe
-other\coloredlogcat\python27.dll
-other\coloredlogcat\quopri.pyc
-other\coloredlogcat\random.pyc
-other\coloredlogcat\re.pyc
-other\coloredlogcat\repr.pyc
-other\coloredlogcat\select.pyc
-other\coloredlogcat\select.pyd
-other\coloredlogcat\shlex.pyc
-other\coloredlogcat\site.py
-other\coloredlogcat\site.pyc
-other\coloredlogcat\sre.pyc
-other\coloredlogcat\sre_compile.pyc
-other\coloredlogcat\sre_constants.pyc
-other\coloredlogcat\sre_parse.pyc
-other\coloredlogcat\stat.pyc
-other\coloredlogcat\string.pyc
-other\coloredlogcat\StringIO.pyc
-other\coloredlogcat\stringprep.pyc
-other\coloredlogcat\struct.pyc
-other\coloredlogcat\subprocess.pyc
-other\coloredlogcat\sysconfig.py
-other\coloredlogcat\sysconfig.pyc
-other\coloredlogcat\tempfile.pyc
-other\coloredlogcat\textwrap.pyc
-other\coloredlogcat\threading.pyc
-other\coloredlogcat\token.pyc
-other\coloredlogcat\tokenize.pyc
-other\coloredlogcat\traceback.pyc
-other\coloredlogcat\types.pyc
-other\coloredlogcat\unicodedata.pyc
-other\coloredlogcat\unicodedata.pyd
-other\coloredlogcat\UserDict.pyc
-other\coloredlogcat\w9xpopen.exe
-other\coloredlogcat\warnings.pyc
-other\coloredlogcat\weakref.pyc
-other\coloredlogcat\_abcoll.pyc
-other\coloredlogcat\_ctypes.pyc
-other\coloredlogcat\_ctypes.pyd
-other\coloredlogcat\_strptime.pyc
-other\coloredlogcat\_threading_local.pyc
-other\coloredlogcat\_weakrefset.pyc
-other\coloredlogcat\__future__.pyc
-other\coloredlogcat\ctypes\_endian.pyc
-other\coloredlogcat\ctypes\__init__.pyc
-other\coloredlogcat\encodings\aliases.pyc
-other\coloredlogcat\encodings\ascii.pyc
-other\coloredlogcat\encodings\base64_codec.pyc
-other\coloredlogcat\encodings\big5.pyc
-other\coloredlogcat\encodings\big5hkscs.pyc
-other\coloredlogcat\encodings\bz2_codec.pyc
-other\coloredlogcat\encodings\charmap.pyc
-other\coloredlogcat\encodings\cp037.pyc
-other\coloredlogcat\encodings\cp1006.pyc
-other\coloredlogcat\encodings\cp1026.pyc
-other\coloredlogcat\encodings\cp1140.pyc
-other\coloredlogcat\encodings\cp1250.pyc
-other\coloredlogcat\encodings\cp1251.pyc
-other\coloredlogcat\encodings\cp1252.pyc
-other\coloredlogcat\encodings\cp1253.pyc
-other\coloredlogcat\encodings\cp1254.pyc
-other\coloredlogcat\encodings\cp1255.pyc
-other\coloredlogcat\encodings\cp1256.pyc
-other\coloredlogcat\encodings\cp1257.pyc
-other\coloredlogcat\encodings\cp1258.pyc
-other\coloredlogcat\encodings\cp424.pyc
-other\coloredlogcat\encodings\cp437.pyc
-other\coloredlogcat\encodings\cp500.pyc
-other\coloredlogcat\encodings\cp720.pyc
-other\coloredlogcat\encodings\cp737.pyc
-other\coloredlogcat\encodings\cp775.pyc
-other\coloredlogcat\encodings\cp850.pyc
-other\coloredlogcat\encodings\cp852.pyc
-other\coloredlogcat\encodings\cp855.pyc
-other\coloredlogcat\encodings\cp856.pyc
-other\coloredlogcat\encodings\cp857.pyc
-other\coloredlogcat\encodings\cp858.pyc
-other\coloredlogcat\encodings\cp860.pyc
-other\coloredlogcat\encodings\cp861.pyc
-other\coloredlogcat\encodings\cp862.pyc
-other\coloredlogcat\encodings\cp863.pyc
-other\coloredlogcat\encodings\cp864.pyc
-other\coloredlogcat\encodings\cp865.pyc
-other\coloredlogcat\encodings\cp866.pyc
-other\coloredlogcat\encodings\cp869.pyc
-other\coloredlogcat\encodings\cp874.pyc
-other\coloredlogcat\encodings\cp875.pyc
-other\coloredlogcat\encodings\cp932.pyc
-other\coloredlogcat\encodings\cp949.pyc
-other\coloredlogcat\encodings\cp950.pyc
-other\coloredlogcat\encodings\euc_jisx0213.pyc
-other\coloredlogcat\encodings\euc_jis_2004.pyc
-other\coloredlogcat\encodings\euc_jp.pyc
-other\coloredlogcat\encodings\euc_kr.pyc
-other\coloredlogcat\encodings\gb18030.pyc
-other\coloredlogcat\encodings\gb2312.pyc
-other\coloredlogcat\encodings\gbk.pyc
-other\coloredlogcat\encodings\hex_codec.pyc
-other\coloredlogcat\encodings\hp_roman8.pyc
-other\coloredlogcat\encodings\hz.pyc
-other\coloredlogcat\encodings\idna.pyc
-other\coloredlogcat\encodings\iso2022_jp.pyc
-other\coloredlogcat\encodings\iso2022_jp_1.pyc
-other\coloredlogcat\encodings\iso2022_jp_2.pyc
-other\coloredlogcat\encodings\iso2022_jp_2004.pyc
-other\coloredlogcat\encodings\iso2022_jp_3.pyc
-other\coloredlogcat\encodings\iso2022_jp_ext.pyc
-other\coloredlogcat\encodings\iso2022_kr.pyc
-other\coloredlogcat\encodings\iso8859_1.pyc
-other\coloredlogcat\encodings\iso8859_10.pyc
-other\coloredlogcat\encodings\iso8859_11.pyc
-other\coloredlogcat\encodings\iso8859_13.pyc
-other\coloredlogcat\encodings\iso8859_14.pyc
-other\coloredlogcat\encodings\iso8859_15.pyc
-other\coloredlogcat\encodings\iso8859_16.pyc
-other\coloredlogcat\encodings\iso8859_2.pyc
-other\coloredlogcat\encodings\iso8859_3.pyc
-other\coloredlogcat\encodings\iso8859_4.pyc
-other\coloredlogcat\encodings\iso8859_5.pyc
-other\coloredlogcat\encodings\iso8859_6.pyc
-other\coloredlogcat\encodings\iso8859_7.pyc
-other\coloredlogcat\encodings\iso8859_8.pyc
-other\coloredlogcat\encodings\iso8859_9.pyc
-other\coloredlogcat\encodings\johab.pyc
-other\coloredlogcat\encodings\koi8_r.pyc
-other\coloredlogcat\encodings\koi8_u.pyc
-other\coloredlogcat\encodings\latin_1.pyc
-other\coloredlogcat\encodings\mac_arabic.pyc
-other\coloredlogcat\encodings\mac_centeuro.pyc
-other\coloredlogcat\encodings\mac_croatian.pyc
-other\coloredlogcat\encodings\mac_cyrillic.pyc
-other\coloredlogcat\encodings\mac_farsi.pyc
-other\coloredlogcat\encodings\mac_greek.pyc
-other\coloredlogcat\encodings\mac_iceland.pyc
-other\coloredlogcat\encodings\mac_latin2.pyc
-other\coloredlogcat\encodings\mac_roman.pyc
-other\coloredlogcat\encodings\mac_romanian.pyc
-other\coloredlogcat\encodings\mac_turkish.pyc
-other\coloredlogcat\encodings\mbcs.pyc
-other\coloredlogcat\encodings\palmos.pyc
-other\coloredlogcat\encodings\ptcp154.pyc
-other\coloredlogcat\encodings\punycode.pyc
-other\coloredlogcat\encodings\quopri_codec.pyc
-other\coloredlogcat\encodings\raw_unicode_escape.pyc
-other\coloredlogcat\encodings\rot_13.pyc
-other\coloredlogcat\encodings\shift_jis.pyc
-other\coloredlogcat\encodings\shift_jisx0213.pyc
-other\coloredlogcat\encodings\shift_jis_2004.pyc
-other\coloredlogcat\encodings\string_escape.pyc
-other\coloredlogcat\encodings\tis_620.pyc
-other\coloredlogcat\encodings\undefined.pyc
-other\coloredlogcat\encodings\unicode_escape.pyc
-other\coloredlogcat\encodings\unicode_internal.pyc
-other\coloredlogcat\encodings\utf_16.pyc
-other\coloredlogcat\encodings\utf_16_be.pyc
-other\coloredlogcat\encodings\utf_16_le.pyc
-other\coloredlogcat\encodings\utf_32.pyc
-other\coloredlogcat\encodings\utf_32_be.pyc
-other\coloredlogcat\encodings\utf_32_le.pyc
-other\coloredlogcat\encodings\utf_7.pyc
-other\coloredlogcat\encodings\utf_8.pyc
-other\coloredlogcat\encodings\utf_8_sig.pyc
-other\coloredlogcat\encodings\uu_codec.pyc
-other\coloredlogcat\encodings\zlib_codec.pyc
-other\coloredlogcat\encodings\__init__.pyc
-other\coloredlogcat\unittest\case.pyc
-other\coloredlogcat\unittest\loader.pyc
-other\coloredlogcat\unittest\main.pyc
-other\coloredlogcat\unittest\result.pyc
-other\coloredlogcat\unittest\runner.pyc
-other\coloredlogcat\unittest\signals.pyc
-other\coloredlogcat\unittest\suite.pyc
-other\coloredlogcat\unittest\util.pyc
-other\coloredlogcat\unittest\__init__.pyc
-other\fl\ufl
-other\lang\dut
-other\lang\eng
-other\lang\rus
-other\lib\asm-all-3.3.1.jar
-other\lib\commons-cli-1.2.jar
-other\lib\commons-lite-1.14.jar
-other\lib\dex-ir-1.11.jar
-other\lib\dex-reader-1.14.jar
-other\lib\dex-tools-0.0.9.13.jar
-other\lib\dex-translator-0.0.9.13.jar
-other\lib\dx.jar
-other\lib\jar-rename-1.5.jar
-other\lib\jasmin-p2.5.jar
+apkchanger.exe 24B902BA9FAE5ED98760170D18ED9771
+other/7z.dll 653D9C59A7D6AE465BFB42E3D86453EF
+other/7za.exe EE80903051196EEB9C16398DAF7CF84C
+other/aapt.exe E4406AC70D011CC7C9388680A008FDF4
+other/adb.exe C4BE24DF324EE7892EFA1FA1871B9BC0
+other/AdbWinApi.dll 47A6EE3F186B2C2F5057028906BAC0C6
+other/AdbWinUsbApi.dll 5F23F2F936BDFAC90BB0A4970AD365CF
+other/advdef.exe D7A5EAD8C2EECB2C6D1D916C0D3D2C9F
+other/android.jar 38C33EE34844260A658505685A955DD6
+other/apktool1.jar 5DDA384CCA8201DF55ACD9D269E9BC0D
+other/apktool2.jar 7270A2B1260070F28AE1F069DB804E5D
+other/apktool3.jar 193D26AEC2D1FE53E9AB7A8482288EC5
+other/baksmali.jar A14D401B6F1D899FB4A008A0DCB9EF0A
+other/baksmali2.jar 984CF350EDBE70A16E6B556339E1B710
+other/classes.pro 4BD8ED65D2079A8C162D61CC65A53EBA
+other/decompall.exe 609E21F33A4A35F6D18B4BD9A1D0C456
+other/DeflOpt.exe 4D17CFC92884B5322D34470FDBF224F8
+other/deo.exe ACE4B2F08027F63428FBEB24EB3BD48B
+other/fernflower.jar 7C6003A988BCBADBA13C510CA4534B26
+other/finddupe.exe 8FFDEFC7390BEB90657031432A76E4E7
+other/find_java.exe A2B32EA09B2F3BF4E42B71E1239594FF
+other/fix_plurals.pl 7C779F70BA58D7F3C46A4E0FB7892A06
+other/fix_plurals2.pl 551DA0E1DFFA3C560D2A604DCCBC1B4C
+other/grep.exe ABEBCD2AF9C9623E98ED110D8CE0766E
+other/gsar.exe 69E3406272F1C673D82FBFDD67F95862
+other/help.docx 139DF31E3FD27EFEBC100EE1F890C8B0
+other/help.txt 1F5E083A3E58C6577C343A21233177F0
+other/inifile.exe 2D4122C2494B3FEB8163B73E7C037835
+other/jad.exe EB144CCCF0389AD426FF6D74122818DF
+other/jadretro.exe DA544569739716AF1E4E2EB8B7A1508C
+other/Java_fixer.jar 024700ABBFE14579930B33E9F0A7D54A
+other/jpegoptim.exe 57A87C4E98AE2CCE65E70300BB4DA27A
+other/jpegtran.exe 0AA9B632500DAD659A69EE3CA0E18FBA
+other/jre-8u31-windows-i586-iftw.exe A93F499AB5EA5F58F46B9FDBA88C2E83
+other/libgcc_s_dw2-1.dll E2AC23418781F632311513944EDD0A4C
+other/libpng16.dll 7929908318435BCD3A76270C5BB98D0C
+other/libstdc++-6.dll C5E6C6EAEF1C0F4468525BF3375B1D42
+other/md5.exe 8D443F2E93A3F0B67F442E4F1D5A4D6D
+other/media.pk8 9B5AFD50951B69E9E5FDA0606C5BE14D
+other/media.sbt AA9852BC5A53272AC8031D49B65E4B0E
+other/media.x509.pem 645821195E628756B08C49617CCDE2FD
+other/mgwz.dll C3E204D71395D8412343B5C4BD28A5D6
+other/mozjpegtran.exe 0403BA8E405ACB154FFB73E8D2D7C87F
+other/nhrplc.exe A66C3EC6D537DB1BF0D7A3598361FF2A
+other/notifu.exe 5F21AE16DD162D1897B89EB6C9FE7B48
+other/oat2dex.jar 20DA2488E8D626E160028FA038D415C6
+other/opt.exe C32795A0FBF546E36E95C3CEF003A021
+other/optall.exe 5973761BD16C0DECD224EE20164F7C24
+other/perl.exe C4DC91B5F220C989A92EEEDF6DAE5236
+other/platform.pk8 6D1611FF6C2201B5EDB8C4906B8ADCFA
+other/platform.sbt E60418C4B638F20D0721E115674CA11F
+other/platform.x509.pem 23E9A8B69D126350BA96A04FE1946CEE
+other/pngquant.exe 6DC51DEDB04DEED16E4B9A7821C58907
+other/pngwolf.exe D0BBCC514AEDF8619FFAC66853108BFD
+other/Print.class 76357CA3E7FB88C4415F5E612795C506
+other/procyon.jar 2671DFF5D19E569FAE688C6C87712845
+other/proguard.jar 13FE5420DB6644A9DFEFFC76A4737E87
+other/setx.exe 184D84ADD517CF2F7EA63967E94AE1F0
+other/shared.pk8 D7D0766193EBB94E0001454B62B33EBE
+other/shared.sbt 3E24E49741B60C215C010DC6048FCA7D
+other/shared.x509.pem F9C35CE11686090540155F5C5B6EF0E1
+other/signapk.jar 34A7FEA8DDA18E56BD7D0C09A51DFC0D
+other/smali.jar 522EC03AAE9B8E638E8B5237D37A7F31
+other/smali2.jar 2C08BD7BD51364ECFB9175B93B962D33
+other/smali_npp.xml D92595382DF83F0F1700E263D7607531
+other/strict.pm 96213BB1C29318B3C6594FEB7ECF792C
+other/testkey.pk8 1823E4BCADB53E275A8FF8E1B261B7AD
+other/testkey.sbt DAB2CEAD827EF5313F28E22B6FA8479F
+other/testkey.x509.pem 4033DAFC873DC7271E205B83CC9B4B17
+other/TruePNG.exe 3E42E3DA09DF3DD634B6578D3EBE758F
+other/wait.exe 81CE4B33912051E39EBBA450F6990721
+other/wget.exe 4CA7EAFB41D7D95857530D2C875D9C18
+other/wtee.exe 35AE53E20FB5847129405890CA0E34DA
+other/zipalign.exe F1CF75488AC9C1511A604D38881FBDEB
+other/zipalignall.exe 0C5159210C1AFE373CAC56AFC404BAED
+other/zlib.dll 05D309D730355DED1B08B7685366AE50
+other/zlib1.dll F7AF44E81E006BFCDCC55DDF861D44E4
+other/coloredlogcat/abc.pyc 046D4405AC20A96D7D989BC6CD666584
+other/coloredlogcat/atexit.pyc CD10B27777586F3A7F13DEC951B05490
+other/coloredlogcat/base64.pyc F1CB7B554871637B8206E16081105542
+other/coloredlogcat/bdb.pyc 468A55E7B96AFC4CCB9C7F84EE8A58F1
+other/coloredlogcat/bisect.pyc 3C44FC23A530275277166F8AA64E13CC
+other/coloredlogcat/bz2.pyc ABA469C53598A4A199B2DE267040E60B
+other/coloredlogcat/bz2.pyd 0B1688C02640EC14D85E1CC3C93F7276
+other/coloredlogcat/calendar.pyc DDF6F15559CBBFBEED19C683690056B7
+other/coloredlogcat/cmd.pyc 440BFB0AA8D2AEEA3118C2DA33B7C1FE
+other/coloredlogcat/codecs.pyc FCBE58EC2DD474AEFF4D40FFF2E27AD2
+other/coloredlogcat/collections.pyc D139D21A8C10ADE29C09FE1CF1710BA9
+other/coloredlogcat/coloredlogcat.py 9CA2D7C725B239B806373712CCD1EA38
+other/coloredlogcat/color_console.py 269AD1F9D505A6A62FA0B3FE7FF9CF2D
+other/coloredlogcat/color_console.pyc 1E408464ACDAC584BAB103BF5B2CB84A
+other/coloredlogcat/copy.pyc 645104E1E5B4668ABDF8F655520964C9
+other/coloredlogcat/copy_reg.pyc 2331BC28496AFAA842EFF30725AD292E
+other/coloredlogcat/difflib.pyc E04513D2AA91FAC08FDDABC4E237924A
+other/coloredlogcat/dis.pyc E76D8E60B31CFA03A911F150A2304F1C
+other/coloredlogcat/doctest.pyc 183C5974F71F8797C8D99DD6984770E9
+other/coloredlogcat/dummy_thread.pyc B1BA03AFFED5B9898C3A1EDA635C0B13
+other/coloredlogcat/fnmatch.pyc 17E71698F270C933865052A0910C38DB
+other/coloredlogcat/functools.pyc 08B4FF0A6630CC9FA9C41563F2248870
+other/coloredlogcat/genericpath.pyc B3FAD4007FA949858CB3716A274E9C29
+other/coloredlogcat/getopt.pyc 013BE0ECBEC97B2A99B131DD0655E7E6
+other/coloredlogcat/gettext.pyc F4AB792A4ACCD4AFA906DA58A2566AAD
+other/coloredlogcat/heapq.pyc D8369BE9A21C2D72CFFF1FF75D2D23FB
+other/coloredlogcat/inspect.pyc E2F6FABB0198D9E029BF7D0F0EB2103F
+other/coloredlogcat/keyword.pyc F2C55437D6A5101CB517C1088601EAD7
+other/coloredlogcat/linecache.pyc DE36ADC64D35151EC5C1348AE9DC5515
+other/coloredlogcat/locale.pyc FF3DAE230047F00F36B3E69FE8F91550
+other/coloredlogcat/ntpath.pyc 90F98FDEE5DB689A50CD7FBF141543FF
+other/coloredlogcat/opcode.pyc E0B23301760FEB095083039DFDE1829A
+other/coloredlogcat/optparse.pyc E2F5F6B8EED44D53331251C19562FEDC
+other/coloredlogcat/os.pyc 293786D9D6665D74FB975902B3DE8C68
+other/coloredlogcat/os2emxpath.pyc F37F24E683C85E21413565449E575B05
+other/coloredlogcat/pdb.pyc C138635E5DE06ADFAB9FF46203306796
+other/coloredlogcat/pickle.pyc A319931568EBFA54011FA4A24AE9C10F
+other/coloredlogcat/posixpath.pyc BAC7BE7169528B391C4E868B4C8A5A55
+other/coloredlogcat/pprint.pyc B455522B002B20E6C554D9B0B3E5E5CE
+other/coloredlogcat/python.exe 89E273C522DF44A5FCA2960A0E5F8C36
+other/coloredlogcat/python27.dll D53E7DE06A7ED2D7F465FB2E6A29F592
+other/coloredlogcat/quopri.pyc 0F839063CBCA5DED807AD29803DF8048
+other/coloredlogcat/random.pyc 0F3E79F93E03A71BF7FDA5377EBB13A2
+other/coloredlogcat/re.pyc B0211C25F7D1681B5AB64FDB3B7D8828
+other/coloredlogcat/repr.pyc C0B31410B5EC90374005A5BA7A565F9C
+other/coloredlogcat/select.pyc 6FCFDB4648F41984EE385561DEBDE40C
+other/coloredlogcat/select.pyd DCEE0DBCF84CC9F1620F168D8F8F9FD1
+other/coloredlogcat/shlex.pyc 2F1DB208902AFB8A52E419E6D964979B
+other/coloredlogcat/site.py E02B7B6AEC641E72EBED8B4F854D5AD1
+other/coloredlogcat/site.pyc FEF4D669D3122CF3885A0DEF551F2D80
+other/coloredlogcat/sre.pyc 276C0CC17088C1B94BD9B71BBDBE218B
+other/coloredlogcat/sre_compile.pyc 4943C3323530180A095D11A057DC4E2A
+other/coloredlogcat/sre_constants.pyc F5EEE750D1D38C467590A298F3CA51B2
+other/coloredlogcat/sre_parse.pyc 5473FEF4F1568E382845BBC6BE5C0E1B
+other/coloredlogcat/stat.pyc 85779213C117232DC8028FC1AF46406C
+other/coloredlogcat/string.pyc B6601E4FD6BD68F3A0250AB7166B7219
+other/coloredlogcat/StringIO.pyc CCC346BF90529CA24CE09D280196BE8B
+other/coloredlogcat/stringprep.pyc 13F1B4061E458F1AF9035BB49161FE56
+other/coloredlogcat/struct.pyc 1BC1F49E73ED26859ED74530C2F34DCF
+other/coloredlogcat/subprocess.pyc 4AF99E5893E12F5287919742D12B6209
+other/coloredlogcat/sysconfig.py 881DBA95B758249226544315989D70F2
+other/coloredlogcat/sysconfig.pyc E585688D2203A43A43F4CDD381DF77C3
+other/coloredlogcat/tempfile.pyc A195408E8B89787318EC9DB286966596
+other/coloredlogcat/textwrap.pyc E503BE21D2FA3741FC18AFF4D701D2A0
+other/coloredlogcat/threading.pyc F2296D58D0AAB7D39C5EB8A6F7F5AFEA
+other/coloredlogcat/token.pyc F46E3257867C8619B96EE5E7ECAA160F
+other/coloredlogcat/tokenize.pyc 948AD64E25C63AAE3004BC49CFA84C1B
+other/coloredlogcat/traceback.pyc 70551EC86402C461B0AA589973B19455
+other/coloredlogcat/types.pyc D7D0CF1FF2CFB9C8503461D0DAD0A871
+other/coloredlogcat/unicodedata.pyc 932479AF388F601F9C1C8E2D8B0E1409
+other/coloredlogcat/unicodedata.pyd 5B44D0BD38C218445DDE8C913736EAAC
+other/coloredlogcat/UserDict.pyc B30FE3D416EB008B6D89778E3EB31E03
+other/coloredlogcat/w9xpopen.exe 687E6F9A88BBE83522DEA9167D3CAEB0
+other/coloredlogcat/warnings.pyc CE4C46E54E7270BAA654B2F3A82D2CAF
+other/coloredlogcat/weakref.pyc E6CC1CC26FE00979EDC29C3C2F8E655F
+other/coloredlogcat/_abcoll.pyc B2CAFE684DECE25598EC9D78445B2015
+other/coloredlogcat/_ctypes.pyc C60967B143D420FF229F64FE3C76F542
+other/coloredlogcat/_ctypes.pyd 98638A1BFDECDCECF4D7D47B521AC903
+other/coloredlogcat/_strptime.pyc 2543983E51BDFF80B174A6364EBB3A08
+other/coloredlogcat/_threading_local.pyc 95B732205C0F6C1916EBFA39F5C08E1E
+other/coloredlogcat/_weakrefset.pyc B7722F990F3F5ECE68759BADA936137E
+other/coloredlogcat/__future__.pyc 2EE414277E8015AA9FB62E45BC66E40E
+other/coloredlogcat/ctypes/_endian.pyc 6BE886DAF445A61796BE8B9AF359513E
+other/coloredlogcat/ctypes/__init__.pyc 53C80C1466C732F644C4F5B9A716DC88
+other/coloredlogcat/encodings/aliases.pyc DB856EAE543F17ABB7ECC13811880631
+other/coloredlogcat/encodings/ascii.pyc 86FA0678A33868288385280DE70D5AAF
+other/coloredlogcat/encodings/base64_codec.pyc 6BB26417B45E89815EF7201870D39F03
+other/coloredlogcat/encodings/big5.pyc FD3D8757EDE35E0AF5C2DACFD9711B26
+other/coloredlogcat/encodings/big5hkscs.pyc DB97C9425ED5D2E2BA0E91211BA1AEE9
+other/coloredlogcat/encodings/bz2_codec.pyc 5364B11A8B7AF81AD58E7E4B2D99677E
+other/coloredlogcat/encodings/charmap.pyc D3C4736CA2B4F1F591C8EA10D0B17D6A
+other/coloredlogcat/encodings/cp037.pyc FB9F24FED1A0B42F9B21759A15FCFE35
+other/coloredlogcat/encodings/cp1006.pyc 23E8BE4C858134E4BF9EC3CCEEC9BDA1
+other/coloredlogcat/encodings/cp1026.pyc 862B64948191553C16709D9E36D25438
+other/coloredlogcat/encodings/cp1140.pyc 53B27EC5B25B80C0DC6AEFDD9B3F432F
+other/coloredlogcat/encodings/cp1250.pyc 4E4289AEBE98B95E591B76F1A90525D8
+other/coloredlogcat/encodings/cp1251.pyc FC27D1E9ED3EE9C0C7639A20AF39736B
+other/coloredlogcat/encodings/cp1252.pyc 84721542670693CAB39FD9423A53F6BB
+other/coloredlogcat/encodings/cp1253.pyc 90E0F38749465D697C50E60EA3FE910E
+other/coloredlogcat/encodings/cp1254.pyc 4E0F5C1F68B16CEF3914619599BE7FA1
+other/coloredlogcat/encodings/cp1255.pyc EF457C9F6D93CDCA13357DF246C99E1A
+other/coloredlogcat/encodings/cp1256.pyc 2CCC93ABDAEA50870498687518DAB934
+other/coloredlogcat/encodings/cp1257.pyc D02DAF041B9C37275530E1AD70C3426E
+other/coloredlogcat/encodings/cp1258.pyc 5EF81E367F8F37DDC7C3572A67E1CD3F
+other/coloredlogcat/encodings/cp424.pyc 9D5C673867DB25F594474387991047D2
+other/coloredlogcat/encodings/cp437.pyc 43FD947A58EC1CC15F7879A76B92A273
+other/coloredlogcat/encodings/cp500.pyc D5A090CCBA0E4E696DD36F1B16363691
+other/coloredlogcat/encodings/cp720.pyc E3A46CCC646BF35BE1609CF5D3795583
+other/coloredlogcat/encodings/cp737.pyc D997A931E8222CEC8EE750B2FA457182
+other/coloredlogcat/encodings/cp775.pyc DEA82A12FEE7A4BCE045854198EF16C5
+other/coloredlogcat/encodings/cp850.pyc 8BAB890E0B466888D7946E151C1C38DD
+other/coloredlogcat/encodings/cp852.pyc 1EE40F8A5ECEEECC269DA149D6B7E3DA
+other/coloredlogcat/encodings/cp855.pyc ACB801ECB3250CAD2D374E595FF6EDE8
+other/coloredlogcat/encodings/cp856.pyc 3846100A04EE5854DFF59E52C828298F
+other/coloredlogcat/encodings/cp857.pyc BD6154FA5DFF1E23B2D4EE7B7BEC106C
+other/coloredlogcat/encodings/cp858.pyc 152351C231F00D808F22537D8761B085
+other/coloredlogcat/encodings/cp860.pyc A5967F7E1C715585C4358397BA4FC6BA
+other/coloredlogcat/encodings/cp861.pyc F0F96E33EEFF2C882735407D9EF537AC
+other/coloredlogcat/encodings/cp862.pyc B2980982ABCE093FF93B6B033917AD01
+other/coloredlogcat/encodings/cp863.pyc FF30858B2357C563C15AC4EC49CCE558
+other/coloredlogcat/encodings/cp864.pyc F6EC21FCF12E53C73FB78175A8F40174
+other/coloredlogcat/encodings/cp865.pyc 638489013F4E0CF3602CAABA079E705B
+other/coloredlogcat/encodings/cp866.pyc AF5C439007801B9277FCB6DF7CE52DE2
+other/coloredlogcat/encodings/cp869.pyc DE65B0FA4DD43DB41460C2DA25AC2F16
+other/coloredlogcat/encodings/cp874.pyc 76B56DD6BD49441099F6C17230E29E10
+other/coloredlogcat/encodings/cp875.pyc C6B0A93B0C332DCEA7570C42A53EB40E
+other/coloredlogcat/encodings/cp932.pyc 5A2555D183B310EED2E7625A4E6681C2
+other/coloredlogcat/encodings/cp949.pyc EA46C4E7C12F0937FB6E49A97DAD9A6D
+other/coloredlogcat/encodings/cp950.pyc 37BD23F9ECF655A182B60FB53F649471
+other/coloredlogcat/encodings/euc_jisx0213.pyc B233BD8D086659B581C74439D1CB04F0
+other/coloredlogcat/encodings/euc_jis_2004.pyc EC9A73711BF0B0756F30F5A2D0A31E75
+other/coloredlogcat/encodings/euc_jp.pyc 52F90A287CF3F158D97B253A743501EA
+other/coloredlogcat/encodings/euc_kr.pyc 1A4A476471627D7D18D600EEB1E72746
+other/coloredlogcat/encodings/gb18030.pyc 573FD338597EE66ADEF52712800251EF
+other/coloredlogcat/encodings/gb2312.pyc 45C8A33665E5F7FF63BFFD9CAE679109
+other/coloredlogcat/encodings/gbk.pyc DF81A97B0448616084635EBE860F66E5
+other/coloredlogcat/encodings/hex_codec.pyc 645411FED57C6255CAD0C9649B9C20EE
+other/coloredlogcat/encodings/hp_roman8.pyc A098DD064433C6AC4F940766C0A8E8C1
+other/coloredlogcat/encodings/hz.pyc 19114DAACF87BA911B9E4A2202AD8774
+other/coloredlogcat/encodings/idna.pyc 8E865FF309D4451DCB87117B7ECDF4A2
+other/coloredlogcat/encodings/iso2022_jp.pyc B3F4DCCF6753DEFBEFA60B7D42DFDE09
+other/coloredlogcat/encodings/iso2022_jp_1.pyc 9C8AA3696DB7C742F9FDE2AC147A3457
+other/coloredlogcat/encodings/iso2022_jp_2.pyc E52BA3795594693AE94D1E3B2A9AAEC6
+other/coloredlogcat/encodings/iso2022_jp_2004.pyc EEACE354FAC60E1BB23B24B5D506A975
+other/coloredlogcat/encodings/iso2022_jp_3.pyc 13B4FF4509832543F871B71C4A4A2EAC
+other/coloredlogcat/encodings/iso2022_jp_ext.pyc E63C8E18689BF6E9D85B438D67FE9B8C
+other/coloredlogcat/encodings/iso2022_kr.pyc 7FF603DB1276049B8146A66AD6890D1A
+other/coloredlogcat/encodings/iso8859_1.pyc 73DE270641B7001981E6DC67AE4212EF
+other/coloredlogcat/encodings/iso8859_10.pyc 9450A61F80E05AE3EA909E3E39E824B2
+other/coloredlogcat/encodings/iso8859_11.pyc 762BA6F7991D73E827C5896E7CC3CE9D
+other/coloredlogcat/encodings/iso8859_13.pyc 7C77F7CB303F99E2295EC651820EE8A2
+other/coloredlogcat/encodings/iso8859_14.pyc 83955659166B01F383465E6CE87DBC1A
+other/coloredlogcat/encodings/iso8859_15.pyc A625EE16884590FD46A4B6697DFBDDB7
+other/coloredlogcat/encodings/iso8859_16.pyc 572A3D1CD11DFBC303365D81E2FC2E44
+other/coloredlogcat/encodings/iso8859_2.pyc 671F91FF2F71928FAB788C5156488802
+other/coloredlogcat/encodings/iso8859_3.pyc D8E0344EF5D4A4190B56F28EBCE6B589
+other/coloredlogcat/encodings/iso8859_4.pyc F85D2CCB16085A92BB0F26510865D9B7
+other/coloredlogcat/encodings/iso8859_5.pyc 9862B6CB348FEB036DA8B7C69CC48892
+other/coloredlogcat/encodings/iso8859_6.pyc 39BEB71F00C66F2E2C2D4D7584D9E38D
+other/coloredlogcat/encodings/iso8859_7.pyc E7AD4B77812AAF762883691A317CA314
+other/coloredlogcat/encodings/iso8859_8.pyc 6BD151BC9042F55AB73987130E564198
+other/coloredlogcat/encodings/iso8859_9.pyc 9B02E1B47343A6DC1CB6DC6E1CF40C51
+other/coloredlogcat/encodings/johab.pyc 45FAABADE92C3C7A10DBCAD66103DAA2
+other/coloredlogcat/encodings/koi8_r.pyc 40609A08F5EE8F89701CE6D7D62E90DF
+other/coloredlogcat/encodings/koi8_u.pyc 109102B89A4BD0A2921AB5049A62283B
+other/coloredlogcat/encodings/latin_1.pyc E7C7B5D01F6880D3CDF7B18223F487C2
+other/coloredlogcat/encodings/mac_arabic.pyc BAAC07111F59A662FE05A41B4F991233
+other/coloredlogcat/encodings/mac_centeuro.pyc 4E1643E4E85581B6AB6D9CD9F34A5BF8
+other/coloredlogcat/encodings/mac_croatian.pyc 4F4A2DC479227AEB6A3C8BB7DBF11647
+other/coloredlogcat/encodings/mac_cyrillic.pyc A60EA31AAF44123432F88657BB56A7DE
+other/coloredlogcat/encodings/mac_farsi.pyc EB1283EBDE93E940670DC95D0BB6A7C7
+other/coloredlogcat/encodings/mac_greek.pyc 8B566200E0F04E2E25D1B451BE94DFCE
+other/coloredlogcat/encodings/mac_iceland.pyc 5B2573D2710679C4FBBDC48F035AD2A2
+other/coloredlogcat/encodings/mac_latin2.pyc 5D3A215B942CBE4090831B1E342C59B7
+other/coloredlogcat/encodings/mac_roman.pyc 51D5B304AC1C3AE78BB3E5C9D06EB0AF
+other/coloredlogcat/encodings/mac_romanian.pyc 2F790FF917E7954A3ADE78BC2BDC7ECE
+other/coloredlogcat/encodings/mac_turkish.pyc A1B15EEC787A88942D4F26E889DA3BFF
+other/coloredlogcat/encodings/mbcs.pyc 5D0F7CE8145E61A90F4D0B7D668012F3
+other/coloredlogcat/encodings/palmos.pyc BDC75C6C50AC6BF488AAE0CFF5403FED
+other/coloredlogcat/encodings/ptcp154.pyc C091AAB1AE711B43DFBEC59946464EFB
+other/coloredlogcat/encodings/punycode.pyc E754D3ACCDB788234C82D1F40434ED69
+other/coloredlogcat/encodings/quopri_codec.pyc 56BA2CEC73446DA5E4982E7B1A0F1095
+other/coloredlogcat/encodings/raw_unicode_escape.pyc DC1BAC730C7017ADBFE2720D29FE3C5A
+other/coloredlogcat/encodings/rot_13.pyc EF129884090DF377FDB8567642D651A9
+other/coloredlogcat/encodings/shift_jis.pyc 9D12ABDCB8369D8A9392E28B860FDDA4
+other/coloredlogcat/encodings/shift_jisx0213.pyc 17C8E7D68AC8A7A5B89132C8DB2D4138
+other/coloredlogcat/encodings/shift_jis_2004.pyc C6DB8BE190EDA8D535031BC2CA16186C
+other/coloredlogcat/encodings/string_escape.pyc AEA1B8C9E72CADA83BA77B13193745FA
+other/coloredlogcat/encodings/tis_620.pyc CA41CC4584A12D7B4EFF42E40A8C76E8
+other/coloredlogcat/encodings/undefined.pyc FA5871BF40246C10C9EB04DAB71D4E5B
+other/coloredlogcat/encodings/unicode_escape.pyc 711115B0C234ECBF32E5F88520BE70EB
+other/coloredlogcat/encodings/unicode_internal.pyc AFE1248C581D627F95E8E58973C21FA1
+other/coloredlogcat/encodings/utf_16.pyc 679966179B0C208DAC880AD3B4222BDE
+other/coloredlogcat/encodings/utf_16_be.pyc 445DFAEE1BD6B145D23F3B0FEC103F6D
+other/coloredlogcat/encodings/utf_16_le.pyc A7F2A42ADE26AE83596524B25690BB18
+other/coloredlogcat/encodings/utf_32.pyc 87483E3BF40B200E8DE4C7024434DD39
+other/coloredlogcat/encodings/utf_32_be.pyc 3D36B782411DFF27F241C4D61B7EF971
+other/coloredlogcat/encodings/utf_32_le.pyc 2E68D10F8F68B30DC29CFB602E791BCF
+other/coloredlogcat/encodings/utf_7.pyc 4E92E0890B637EF58D6ED4A60EC7DF1B
+other/coloredlogcat/encodings/utf_8.pyc C4B1B17263B3A4CB686DF3D8E42E3ED0
+other/coloredlogcat/encodings/utf_8_sig.pyc 688C5CDCF04FAEEEC540FBDC34539E56
+other/coloredlogcat/encodings/uu_codec.pyc C7F59D47BDE6E0E408CD1388A9521D80
+other/coloredlogcat/encodings/zlib_codec.pyc 23A05CFD5832C9DF0C7F8940C1DD56B2
+other/coloredlogcat/encodings/__init__.pyc 47B9853F5BF07F95F7B2E7BEDBF1E391
+other/coloredlogcat/unittest/case.pyc 909A223BCCF71F7B266C4374D5A5BDD9
+other/coloredlogcat/unittest/loader.pyc 11F9B86AC0C9561D96CB3A4B09468FC0
+other/coloredlogcat/unittest/main.pyc 632969F217F2179F0750297D39168FC4
+other/coloredlogcat/unittest/result.pyc 769BF244F8333F4364EA01A2EF7D1E00
+other/coloredlogcat/unittest/runner.pyc 629192656680A6C06B8A80612F48006A
+other/coloredlogcat/unittest/signals.pyc DF2CF29938820CD89114D4DAC76806F1
+other/coloredlogcat/unittest/suite.pyc 8ABA5DED48BA141905D6E947F4F69075
+other/coloredlogcat/unittest/util.pyc EDBC9907D5F21273891007841E95B909
+other/coloredlogcat/unittest/__init__.pyc 6044FC9E417B8F283F9197CB1C59620B
+other/frameworks/api10_public.xml 94C960D28B22093A1F3D204598237771
+other/frameworks/api11_public.xml 9F8940D4E688B068E69107B78F7DDA86
+other/frameworks/api12_public.xml 440A64C5E488802EEA260F7B62662804
+other/frameworks/api13_public.xml 5570C1026A2725F9A361BF4369F2E48E
+other/frameworks/api14_public.xml 321E5E22A51780FAF52E1CD63908EC65
+other/frameworks/api15_public.xml 0CB35E7D0870CE413A4E3B332AFA99A2
+other/frameworks/api16_public.xml 968187F91F00430DF06E3AE5C3892385
+other/frameworks/api17_public.xml 8E100C62D6B130DD2BE760C9E1CF814C
+other/frameworks/api18_public.xml BC5CD57E9E86E4BB22FFE923952A8567
+other/frameworks/api19_public.xml 0550C7BE94CB456A1AD43AD2FB7E676B
+other/frameworks/api20_public.xml 25575C13B39056797CF5D64D87C94C3D
+other/frameworks/api21_public.xml 1523C2CF82A5044B738E005134B900C5
+other/frameworks/api3_public.xml D5688DB14A3322776B6ED5D999443831
+other/frameworks/api4_public.xml E7C6A572A149DB1FBDFAE28B246F625E
+other/frameworks/api7_public.xml F3A86011771C3AED6842229A0A59E23E
+other/frameworks/api8_public.xml D3392B389BB354767F4A800BD5AC0A32
+other/frameworks/framework-res_api10.apk 57E9E92181C03513C4F38FD85439B94E
+other/frameworks/framework-res_api11.apk 8D5E900DA7702BF4D81B324E1E2034A6
+other/frameworks/framework-res_api12.apk D9DB88A910C5E8D6A3FA8F524A569DA6
+other/frameworks/framework-res_api13.apk 706EB2B5DCAAC18489C364D9793DBB65
+other/frameworks/framework-res_api14.apk 2E4C73162B6C72B203DBDE9B47F596B0
+other/frameworks/framework-res_api15.apk 4392346339E01F29A3E72E3D49F72E2E
+other/frameworks/framework-res_api16.apk 3BBE62A722FF211B3B98AD0279957B6B
+other/frameworks/framework-res_api17.apk E93EB579630D7E3863305713416C9056
+other/frameworks/framework-res_api18.apk 472625C50B877037B593F88896E43239
+other/frameworks/framework-res_api19.apk 35F9CEB3DBCDD4519133DA802EECE283
+other/frameworks/framework-res_api20.apk 71EA817E0E85B65BBE7EF6D12E721DC7
+other/frameworks/framework-res_api21.apk 8EDE70FC9D358F2C22D2AEBAB05BAB9C
+other/frameworks/framework-res_api3.apk D3D73E0DF51C3BE944C1AA53584660B5
+other/frameworks/framework-res_api4.apk D24E38F922DB1289A8594F7404B0A09C
+other/frameworks/framework-res_api7.apk 35BE2660FF3190474D901C52D4DE3F81
+other/frameworks/framework-res_api8.apk 5C1AF17AD75BBF31E9AE45EAE9524A5E
+other/jadx/android-4.3.jar 0D0EB857D34DE00ED1EBB60323A08A4A
+other/jadx/annotations-12.0.jar C18689D6A23452A0C0CF15B3CC312A2F
+other/jadx/asm-5.0.3.jar CCEBEE99FB8CDD50E1967680A2EAC0BA
+other/jadx/commons-io-2.4.jar 7F97854DC04C119D461FED14F5D8BB96
+other/jadx/dx-1.10.jar A604BB0DD1E9B4E91BC885BE03FDE21F
+other/jadx/gson-2.3.1.jar E16B1B8FCA0980263F764F633EC91DD6
+other/jadx/jadx-cli-0.5.5-dev.jar F840282A74CC863C6B62E692D31C49DD
+other/jadx/jadx-core-0.5.5-dev.jar 7C159E7A45D177A483AC9AE638900D70
+other/jadx/jadx-gui-0.5.5-dev.jar B3E5B4595147C2AF3C4978DCC53009ED
+other/jadx/jcommander-1.47.jar 7B0D76C64D30C07370E551AFA18A5CC8
+other/jadx/logback-classic-1.1.2.jar 0418F747DBDD3EF5CC5F5AA85629609D
+other/jadx/logback-core-1.1.2.jar AE3B1F69540D87C5BB68260818764FE3
+other/jadx/rsyntaxtextarea-2.5.6.jar 064450DA76E07F5A496DFDED67577BDB
+other/jadx/slf4j-api-1.7.10.jar 3459BDFBE4A9ABED1B5B32D2E0C520EE
+other/lang/dut 60290B92A293038E0BFF21B5A80291B3
+other/lang/eng 02F5FF0FBBE1E0D6487529C9FB05C974
+other/lang/rus F2B7BC6C92C991B4CF0CE533BACF3E18
+other/lib/asm-all-3.3.1.jar A4AC27CFF067518CC6E1D8334440795B
+other/lib/commons-cli-1.2.jar BFDCAE1FF93F0C07D733F03BDCE28C9E
+other/lib/commons-lite-1.14.jar 3F26204D12780C626605A754AD533F26
+other/lib/dex-ir-1.11.jar 94E683AE72FEB86A7E0310BBF0432B08
+other/lib/dex-reader-1.14.jar 266A457AE5412FC4D892374640619183
+other/lib/dex-tools-0.0.9.13.jar BA7BE6FC6F70C4735DE0941FA6C83C15
+other/lib/dex-translator-0.0.9.13.jar F044C5DB2DF9E199785E712135C5F5E6
+other/lib/dx.jar 1CA3783A94E8F2AE93F2F054F184DA2F
+other/lib/jar-rename-1.5.jar 473A9434551DFDF3FDE4D62922F7696F
+other/lib/jasmin-p2.5.jar 2817F0503F30D2C9457FA21D8CF9E089
