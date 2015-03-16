@@ -113,6 +113,7 @@ other/frameworks/api18_public.xml BC5CD57E9E86E4BB22FFE923952A8567
 other/frameworks/api19_public.xml 0550C7BE94CB456A1AD43AD2FB7E676B
 other/frameworks/api20_public.xml 25575C13B39056797CF5D64D87C94C3D
 other/frameworks/api21_public.xml 1523C2CF82A5044B738E005134B900C5
+other/frameworks/api22_public.xml AC8E69435CC07C168F6066F562B493BA
 other/frameworks/api3_public.xml D5688DB14A3322776B6ED5D999443831
 other/frameworks/api4_public.xml E7C6A572A149DB1FBDFAE28B246F625E
 other/frameworks/api7_public.xml F3A86011771C3AED6842229A0A59E23E
@@ -129,6 +130,7 @@ other/frameworks/framework-res_api18.apk 302A03A88BEB2B219FAC6A085EBAFC19
 other/frameworks/framework-res_api19.apk 32CB3D7236E56DB9A36806E8D13CF965
 other/frameworks/framework-res_api20.apk 08812ABD1D2765CAC97DCAB60E718F2F
 other/frameworks/framework-res_api21.apk 1CDD3E93BA57198530444AAC75B7AFDF
+other/frameworks/framework-res_api22.apk 662B8CB514A54BA1763670E6B2678815
 other/frameworks/framework-res_api3.apk 102F4E5463342A6DA0DDC01EB20841B2
 other/frameworks/framework-res_api4.apk 04BAEF103F176D98C105DFFB8CC592EB
 other/frameworks/framework-res_api7.apk DCF6EF862D2A16D6F5BEAE0A6D31E73A
