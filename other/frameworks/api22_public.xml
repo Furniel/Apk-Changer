@@ -1208,36 +1208,36 @@
     <public type="attr" name="dialogPreferredPadding" id="0x010104d3" />
     <public type="attr" name="searchHintIcon" id="0x010104d4" />
     <public type="attr" name="revisionCode" id="0x010104d5" />
-    <public type="attr" name="APKTOOL_DUMMY_0267" id="0x01010267" />
-    <public type="attr" name="APKTOOL_DUMMY_03a8" id="0x010103a8" />
-    <public type="attr" name="APKTOOL_DUMMY_03c3" id="0x010103c3" />
-    <public type="attr" name="APKTOOL_DUMMY_040e" id="0x0101040e" />
-    <public type="attr" name="APKTOOL_DUMMY_040f" id="0x0101040f" />
-    <public type="attr" name="APKTOOL_DUMMY_0410" id="0x01010410" />
-    <public type="attr" name="APKTOOL_DUMMY_0411" id="0x01010411" />
-    <public type="attr" name="APKTOOL_DUMMY_0412" id="0x01010412" />
-    <public type="attr" name="APKTOOL_DUMMY_0413" id="0x01010413" />
-    <public type="attr" name="APKTOOL_DUMMY_0414" id="0x01010414" />
-    <public type="attr" name="APKTOOL_DUMMY_0415" id="0x01010415" />
-    <public type="attr" name="APKTOOL_DUMMY_0416" id="0x01010416" />
-    <public type="attr" name="APKTOOL_DUMMY_0417" id="0x01010417" />
-    <public type="attr" name="APKTOOL_DUMMY_0418" id="0x01010418" />
-    <public type="attr" name="APKTOOL_DUMMY_0419" id="0x01010419" />
-    <public type="attr" name="APKTOOL_DUMMY_041a" id="0x0101041a" />
-    <public type="attr" name="APKTOOL_DUMMY_041b" id="0x0101041b" />
-    <public type="attr" name="APKTOOL_DUMMY_041c" id="0x0101041c" />
-    <public type="attr" name="APKTOOL_DUMMY_041d" id="0x0101041d" />
-    <public type="attr" name="APKTOOL_DUMMY_041e" id="0x0101041e" />
-    <public type="attr" name="APKTOOL_DUMMY_041f" id="0x0101041f" />
-    <public type="attr" name="APKTOOL_DUMMY_0420" id="0x01010420" />
-    <public type="attr" name="APKTOOL_DUMMY_0421" id="0x01010421" />
-    <public type="attr" name="APKTOOL_DUMMY_0422" id="0x01010422" />
-    <public type="attr" name="APKTOOL_DUMMY_0423" id="0x01010423" />
-    <public type="attr" name="APKTOOL_DUMMY_0424" id="0x01010424" />
-    <public type="attr" name="APKTOOL_DUMMY_0425" id="0x01010425" />
-    <public type="attr" name="APKTOOL_DUMMY_0426" id="0x01010426" />
-    <public type="attr" name="APKTOOL_DUMMY_0427" id="0x01010427" />
-    <public type="attr" name="APKTOOL_DUMMY_0428" id="0x01010428" />
+    <public type="attr" name="APKTOOL_DUMMY_267" id="0x01010267" />
+    <public type="attr" name="APKTOOL_DUMMY_3a8" id="0x010103a8" />
+    <public type="attr" name="APKTOOL_DUMMY_3c3" id="0x010103c3" />
+    <public type="attr" name="APKTOOL_DUMMY_40e" id="0x0101040e" />
+    <public type="attr" name="APKTOOL_DUMMY_40f" id="0x0101040f" />
+    <public type="attr" name="APKTOOL_DUMMY_410" id="0x01010410" />
+    <public type="attr" name="APKTOOL_DUMMY_411" id="0x01010411" />
+    <public type="attr" name="APKTOOL_DUMMY_412" id="0x01010412" />
+    <public type="attr" name="APKTOOL_DUMMY_413" id="0x01010413" />
+    <public type="attr" name="APKTOOL_DUMMY_414" id="0x01010414" />
+    <public type="attr" name="APKTOOL_DUMMY_415" id="0x01010415" />
+    <public type="attr" name="APKTOOL_DUMMY_416" id="0x01010416" />
+    <public type="attr" name="APKTOOL_DUMMY_417" id="0x01010417" />
+    <public type="attr" name="APKTOOL_DUMMY_418" id="0x01010418" />
+    <public type="attr" name="APKTOOL_DUMMY_419" id="0x01010419" />
+    <public type="attr" name="APKTOOL_DUMMY_41a" id="0x0101041a" />
+    <public type="attr" name="APKTOOL_DUMMY_41b" id="0x0101041b" />
+    <public type="attr" name="APKTOOL_DUMMY_41c" id="0x0101041c" />
+    <public type="attr" name="APKTOOL_DUMMY_41d" id="0x0101041d" />
+    <public type="attr" name="APKTOOL_DUMMY_41e" id="0x0101041e" />
+    <public type="attr" name="APKTOOL_DUMMY_41f" id="0x0101041f" />
+    <public type="attr" name="APKTOOL_DUMMY_420" id="0x01010420" />
+    <public type="attr" name="APKTOOL_DUMMY_421" id="0x01010421" />
+    <public type="attr" name="APKTOOL_DUMMY_422" id="0x01010422" />
+    <public type="attr" name="APKTOOL_DUMMY_423" id="0x01010423" />
+    <public type="attr" name="APKTOOL_DUMMY_424" id="0x01010424" />
+    <public type="attr" name="APKTOOL_DUMMY_425" id="0x01010425" />
+    <public type="attr" name="APKTOOL_DUMMY_426" id="0x01010426" />
+    <public type="attr" name="APKTOOL_DUMMY_427" id="0x01010427" />
+    <public type="attr" name="APKTOOL_DUMMY_428" id="0x01010428" />
     <public type="id" name="background" id="0x01020000" />
     <public type="id" name="checkbox" id="0x01020001" />
     <public type="id" name="content" id="0x01020002" />
