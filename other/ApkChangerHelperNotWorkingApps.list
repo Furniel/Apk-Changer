@@ -1,0 +1,27 @@
+ERROR_INSTALL=error when installing cloned app
+ERROR_START=error when starting cloned app
+CRASH_START=crash when starting cloned app
+ERROR_USE=error when using cloned app
+CRASH_USE=crash when using cloned app
+MISSING_FUNCTIONALITY=missing functionality
+INCORRECT_FUNCTIONALITY=incorrect functionality
+OTHER_PROBLEMS=problems
+
+com.google.android.apps.genie.geniewidget ERROR_START
+com.google.android.youtube CRASH_START
+com.whatsapp CRASH_USE
+com.viber.voip CRASH_USE
+com.snapchat.android CRASH_USE
+com.facebook.orca ERROR_USE
+com.android.chrome CRASH_START
+com.evernote INCORRECT_FUNCTIONALITY
+com.verizon.messaging.vzmsgs INCORRECT_FUNCTIONALITY
+com.supercell.clashofclans MISSING_FUNCTIONALITY
+com.supercell.clashroyale MISSING_FUNCTIONALITY
+com.bbm CRASH_START
+com.venticake.retrica CRASH_START
+com.google.android.apps.paidtasks CRASH_START
+com.microsoft.office.lync15 CRASH_USE
+com.tencent.mobileqq ERROR_USE
+tv.periscope.android CRASH_START
+com.android.vending CRASH_USE
