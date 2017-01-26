@@ -1,0 +1,8 @@
+#Supported architectures list: armeabi, armeabi-v7a, arm64-v8a, x86, x86_64, mips
+#Default architectures(if no one defined): armeabi, armeabi-v7a, arm64-v8a
+#Supported resolutions list: ldpi, mhdpi, hdpi, xhdpi, xxhdpi, xxxhdpi
+#Default resolutions(if no one defined): leave images with best resolution
+#Supported locales list: All
+#Default locales: remove all localized folders
+*-xhdpi
+*-ru
