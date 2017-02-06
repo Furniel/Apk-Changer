@@ -8,14 +8,14 @@ Features:
  - Zipalign apk files
  - Sign apk files(Batch mode supported)
  - Adb logcat with logcat options(via WiFi or usb cable)
- - Three versions of apktool(1.4.3, 1.5.3, 2.0.0)-if error occurs while decompiling program will try too use alternative version and will compile your apk with version that was used for decompilation
+ - Three versions of apktool(1.4.3, 1.5.3, 2.2.0)-if error occurs while decompiling program will try to use alternative version and will compile your apk with version that was used for decompilation
  - Three languages at the moment(Russian, English and Dutch) - if you want to translate program into other language just let me know
  - Settings (Compression level, Heap size, optimization level, apktool version, smali version, language...).
  - Error detection. If error occured, program reports about it.
- - Logs (For batch Decompilation/Compilation program creates two logs. First is full and second shows only in with what apks occured errors).
+ - Logs (For batch Decompilation/Compilation program creates two logs. First is full and second shows only with what apks occured errors).
  - Decompile/Compile jar files(framework files)
  - All stuff i forgot
- - If you need other functions - let me know and i`ll try to add them in future versions
+ - If you need other functions - let me know and i'll try to add them in future versions
 
 Credits: 
  Brut.all & iBotPeaches for apktool
