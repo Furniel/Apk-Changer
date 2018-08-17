@@ -252,5 +252,5 @@ redeinfrdsfi=Remove debug info from dex\smali files
 coimtotadp=Resize images to target DPI
 trtomaorco=Try to match original apk compression
 recompressing=Recompressing
-reapks=Recompressing apks
+reapks=Recompressing files
 redeinf=Remove debug info
