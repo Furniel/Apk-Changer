@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resproguard>
+    <!--defaut property to set  -->
+    <issue id="property">
+        <!--whether use 7zip to repackage the signed apk, you must install the 7z command line version in window -->
+        <!--sudo apt-get install p7zip-full in linux -->
+        <!--and you must write the sign data fist, and i found that if we use linux, we can get a better result -->
+        <seventzip value="false"/>
+        <!--the sign data file name in your apk, default must be META-INF-->
+        <!--generally, you do not need to change it if you dont change the meta file name in your apk-->
+        <metaname value="META-INF"/>
+        <!--if keep root, res/drawable will be kept, it won't be changed to such as r/s-->
+        <keeproot value="true"/>
+    </issue>
+
+    <!--whitelist, some resource id you can not proguard, such as getIdentifier-->
+    <!--isactive, whether to use whitelist, you can set false to close it simply-->
+    <issue id="whitelist" isactive="true">
+        <!--you must write the full package name, such as com.tencent.mm.R -->
+        <!--for some reason, we should keep our icon better-->
+        <!--and it support *, ?, such as com.tencent.mm.R.drawable.emoji_*, com.tencent.mm.R.drawable.emoji_?-->
+        <path value="*.R.drawable.icon"/>
+        <path value="*.R.string.com.crashlytics.*"/>
+        <path value="*.R.string.umeng*"/>
+        <path value="*.R.layout.umeng*"/>
+        <path value="*.R.drawable.umeng*"/>
+        <path value="*.R.anim.umeng*"/>
+        <path value="*.R.color.umeng*"/>
+        <path value="*.R.style.*UM*"/>
+        <path value="*.R.style.umeng*"/>
+        <path value="*.R.id.umeng*"/>
+        <path value="*.R.string.UM*"/>
+        <path value="*.R.string.tb_*"/>
+        <path value="*.R.layout.tb_*"/>
+        <path value="*.R.drawable.tb_*"/>
+        <path value="*.R.color.tb_*"/>
+        <!-- Umeng sdk -->
+        <path value="*.R.anim.umeng*"/>
+        <path value="*.R.string.umeng*"/>
+        <path value="*.R.string.UM*"/>
+        <path value="*.R.string.tb_*"/>
+        <path value="*.R.layout.umeng*"/>
+        <path value="*.R.layout.socialize_*"/>
+        <path value="*.R.layout.*messager*"/>
+        <path value="*.R.layout.tb_*"/>
+        <path value="*.R.color.umeng*"/>
+        <path value="*.R.color.tb_*"/>
+        <path value="*.R.style.*UM*"/>
+        <path value="*.R.style.umeng*"/>
+        <path value="*.R.drawable.umeng*"/>
+        <path value="*.R.drawable.tb_*"/>
+        <path value="*.R.drawable.sina*"/>
+        <path value="*.R.drawable.qq_*"/>
+        <path value="*.R.drawable.tb_*"/>
+        <path value="*.R.id.umeng*"/>
+        <path value="*.R.id.*messager*"/>
+        <path value="*.R.id.progress_bar_parent"/>
+        <path value="*.R.id.socialize_*"/>
+        <path value="*.R.id.webView"/>
+        <!-- google-services -->
+        <path value="*.R.string.google_app_id"/>
+        <path value="*.R.string.gcm_defaultSenderId"/>
+        <path value="*.R.string.default_web_client_id"/>
+        <path value="*.R.string.ga_trackingId"/>
+        <path value="*.R.string.firebase_database_url"/>
+        <path value="*.R.string.google_api_key"/>
+        <path value="*.R.string.google_crash_reporting_api_key"/>
+        <!-- getui(个推) -->
+        <path value="*.R.drawable.push"/>
+        <path value="*.R.drawable.push_small"/>
+        <path value="*.R.layout.getui_notification"/>
+        <!-- JPush(极光推送) -->
+        <path value="*.R.drawable.jpush_notification_icon"/>
+        <!-- GrowingIO -->
+        <path value="*.R.string.growingio_project_id"/>
+        <path value="*.R.string.growingio_url_scheme"/>
+        <path value="*.R.string.growingio_channel"/>
+        <!-- Firebase -->
+        <!-- firStore -->
+        <path value="*.R.string.project_id"/>
+        <!-- Huawei push -->
+        <path value="*.R.string.hms_update_title"/>
+    </issue>
+
+    <!--keepmapping, sometimes if we need to support incremental upgrade, we should keep the old mapping-->
+    <!--isactive, whether to use keepmapping, you can set false to close it simply-->
+    <!--if you use -mapping to set keepmapping property in cammand line, these setting will be overlayed-->
+    <issue id="keepmapping" isactive="false">
+        <!--the old mapping path, in window use \, in linux use /, and the default path is the running location-->
+        <path value="{your_mapping_path}"/>
+    </issue>
+
+    <!--compress, if you want to compress the file, the name is relative path, such as resources.arsc, res/drawable-hdpi/welcome.png-->
+    <!--what can you compress? generally, if your resources.arsc less than 1m, you can compress it. and i think compress .png, .jpg is ok-->
+    <!--isactive, whether to use compress, you can set false to close it simply-->
+    <issue id="compress" isactive="false">
+        <!--you must use / separation, and it support *, ?, such as *.png, *.jpg, res/drawable-hdpi/welcome_?.png-->
+        <path value="*.png"/>
+        <path value="*.jpg"/>
+        <path value="*.jpeg"/>
+        <path value="*.gif"/>
+        <path value="resources.arsc"/>
+    </issue>
+
+    <!--sign, if you want to sign the apk, and if you want to use 7zip, you must fill in the following data-->
+    <!--isactive, whether to use sign, you can set false to close it simply-->
+    <!--if you use -signature to set sign property in cammand line, these setting will be overlayed-->
+    <issue id="sign" isactive="false">
+        <!--the signature file path, in window use \, in linux use /, and the default path is the running location-->
+        <path value="release.keystore"/>
+        <!--storepass-->
+        <storepass value="testres"/>
+        <!--keypass-->
+        <keypass value="testres"/>
+        <!--alias-->
+        <alias value="testres"/>
+    </issue>
+
+</resproguard>
