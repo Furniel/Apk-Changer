@@ -1,44 +1,35 @@
 Settings
-1)Compression level:
--Global compression level - compression level for most of files inside apk
--Image compression - compression level for image files(such as png, jpg) - recomended 0,
-images are already compressed files, so they don`t need compression
--Xml compression - compression for xml files
--Dex compression - compression for dex file(consist of smali-files, when unpacked)
--ARSC compression - compression for arsc file(consist of values files)
+1)	Apktool - select apktool  version which you want use as default(latest versions of apktool supports two aapt versions(aapt and aapt2), you can select use aapt2 or not)
+2)	Smali - select smali version which you want use as default
+3)	Framework version - here you can select framework which will be used as default for decompiling apks(Apkchanger can select framework version automatically for each apk(only default frameworks supported)).
+	You can add there your own frameworks(up to 8 files supported). Just select “add framework files” option and copying framework files to "copy_framework_files_here" folder”, then enter framework name and tag.
+4)	Signature key - key which will be used for apk signing(autoselection supported)
+5)	Compression level:
+Try to match original apk compression – apkchanger detects which files where or not compressed in original apk and compress new apk file according to this settings.
+Use zopfli compression during zip aligning – apkchanger can use zopfli during zip aligning(slover, but better compression in result)
+-	Unknown files compression level – compression level for files(that are not images, archives, audio, video, xml, dex, arsc) inside apk
+-	Image files compression - compression level for image files (such as png, jpg) - recommended 0, images are already compressed files, so they don`t need compression
+-	Audio files compression - compression level for audio files
+-	Video files compression - compression level for video files
+-	Xml files compression - compression level for xml files
+-	Dex files compression - compression level for dex file (consist of smali-files, when unpacked)
+-	ARSC files compression - compression level for arsc file (consist of values files)
 
-2)Cache size - java heap size
-3)Optimization level - optimization level for images inside apk
--9 is the best optimization level - but it the most slow, 1 - lowest optimization level, but the most fast.
-4)Apktool - select version of apktool which you want use as default
-5)Language - select language of a program
-6)Connect adb to wifi - you can connect adb via wifi to your phone & install programs, use logcat via wifi
-7)Delete unnecessary files - you can turn this option on for autodeleting unneeded files from apk.
-Folders which will be deleted defined in ufl file (unnecessary folder list) - you can find it in other\fl folder and edit with any text editor(in this file
-can be defined any folders – you can delete languages, images and so on. )
-Example: If you have device with hdpi resolution and you don`t need ldpi, mdpi and xhdpi support in apk – 
-you can define drawable-ldpi, drawable-mdpi and drawable-xhdpi folders in ufl list. If you don`t need Russian translation in apk – you can define values-ru folder in ufl file.
-You can create custom ufl file for apk files, that will overwrite  default list( For this you must create new file(or copy default list) and rename it as: 
-file name + _ + ufl . 
-Example: If you want create custom list for Phone.apk you should create Phone_ufl file in other\fl folder and define there all folders that you want to delete.
-Program will notify you that custom lis found – it will show “Found custom unnecessary folder list for Phone.apk” during decompilation. )
-8)Framework version - here you can select framework which will be used as default for decompiling apks.
-list of frameworks defined in frameworkslist.txt in other\frameworks folder.
-You can add there your own frameworks(up to six files – miui has six framework files, new htc roms has four) or delete default.
-Example:
-We will add htc framework from my own htc rom:
--Copy all apk files from system/framework folder(you can rename them as you wish, but don`t use spaces) to other frameworks folder in the program
-In my rom i have framework-res.apk & com.htc.resources.apk. I`ll rename them to framework-res_my.apk & com.htc.resources_my.apk
--Now we must add our frameworks to frameworkslist.txt.
-Open frameworkslist.txt with text editor. Now we must add framework name(will be shown in program - i will use "MY ROM"), then |,
-framework tag(apktool will use it - don`t use spaces here. I wiil use "my"), again |, then you must add eight framework names which you copied before  - if you have
-only one or two frameworks - write no.
-As result we have such line in frameworkslist.txt:
-
-MY ROM|my|framework-res_my.apk|com.htc.resources_my.apk|no|no|no|no|no|no
-
--Now open program, goto settings, select Framework version and reinstall framework files after this you can select your framework in the program
-9)Signature key - key which will be used for apk signing
-10)Text color - color of the text which program will use
-11)Notifications - turn on or off program notifications
-
+6)	Optimization level - optimization level for images inside apk - 9 is the best optimization level - but it is the most slow, 1 - lowest optimization level, but the most fast.
+7)	Delete unnecessary files - you can turn this option on for autodeleting unneeded files(locales, resolutions, architectures) from apk.
+	Parameters for which apk will be optimized defined in ufl file (unnecessary folder list) - you can find it in “other\fl” folder and edit with any text editor.
+	Example: If you have device with xhdpi resolution and you don`t need ldpi, mdpi and xhdpi support in apk – you can define *-xhdpi in ufl list and all other resolutions will be deleted.
+	If you need only Russian translation in apk – you can define *-ru and all other translations will be deleted.
+	You can create custom ufl file for apk files, that will overwrite  default list ( For this you must create new file(or copy default list) in other\fl and rename it as: your_apk_file_name.ufl .
+	Example: If you want create custom list for Phone.apk you should create Phone.ufl file in other\fl folder and define there settings for this apk.
+	Program will notify you that custom list found – it will show “Found custom unnecessary folder list for Phone.apk” during decompilation. )
+8)	Remove debug info – remove debug info during dex files decompilation or not.
+9)	Decompile dex to java – decompiles dex files to java with one of dex2java decompilers(jadx, procyon, fernflower, cfr decompilers supported and dex2jar, enjarify  dex to jar converters supported)
+10)	Use bruteforce – if apk can’t be decompiled with default framework, apkchanger can try to decompile it with all other frameworks. 
+11)	Connect adb to Wi-Fi - you can connect adb via Wi-Fi to your phone and install programs or use logcat via Wi-Fi
+12)	Jvm heap limit – java runtime maximum heap size.
+13)	Cores limit – maximum cores limit that program can use.
+14)	Language - select program language.
+15)	Text color - color of the text which program will use.
+16)	Notifications - turn on or off program notifications
+17)	Check for program updates – download latest program updates(I strongly recommend use latest apkchanger version with all bugfixes) 
