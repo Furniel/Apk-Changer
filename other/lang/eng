@@ -254,3 +254,4 @@ trtomaorco=Try to match original apk compression
 recompressing=Recompressing
 reapks=Recompressing files
 redeinf=Remove debug info
+auswowdf=Autoselection (works only with default frameworks)
