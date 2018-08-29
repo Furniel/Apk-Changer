@@ -1,0 +1,32 @@
+grant codeBase "jrt:/jdk.javaws" {
+    permission java.security.AllPermission;
+};
+
+grant codeBase "jrt:/jdk.plugin" {
+    permission java.security.AllPermission;
+};
+
+grant codeBase "jrt:/jdk.plugin.server" {
+    permission java.security.AllPermission;
+};
+
+grant codeBase "jrt:/jdk.deploy" {
+    permission java.security.AllPermission;
+};
+
+grant codeBase "jrt:/javafx.deploy" {
+    permission java.security.AllPermission;
+};
+
+
+grant codeBase "file:${jnlpx.home}/lib/jdk.javaws.jar" {
+    permission java.security.AllPermission;
+};
+
+grant codeBase "file:${jnlpx.home}/lib/jdk.plugin.jar" {
+    permission java.security.AllPermission;
+};
+
+grant codeBase "file:${jnlpx.home}/lib/jdk.deploy.jar" {
+    permission java.security.AllPermission;
+};
