@@ -2,23 +2,19 @@ Apk changer is a command line program for modifying apk files. It`s similar to a
 
 Features: 
  - Normal and Advanced Mode.
- - Multicore support(much faster than other tools in batch operations and image optimization) - supports up to 12 cores
+ - Multicore support(much faster than other tools in batch operations and image optimization)
  - Decompile/Compile selected part of apk files.(Batch mode supported, framework dependent decompiling supported too)
  - Optimize pngs inside apk files(including .9.pngs).(Batch mode supported)
  - Zipalign apk files
  - Sign apk files(Batch mode supported)
+ - Recompress apk
+ - Protect Apk resources
+ - Dex to java decompilation
  - Adb logcat with logcat options(via WiFi or usb cable)
- - Three versions of apktool(1.4.3, 1.5.3, 2.2.0)-if error occurs while decompiling program will try to use alternative version and will compile your apk with version that was used for decompilation
- - Three languages at the moment(Russian, English and Dutch) - if you want to translate program into other language just let me know
+ - Four versions of apktool(1.4.3, 1.5.3, 2.3.2, latest development)-if error occurs while decompiling program will try to use alternative version and will compile your apk with version that was used for decompilation
+ - Four languages at the moment(Russian, English, Dutch, Deutch) - if you want to translate program into other language just let me know
  - Settings (Compression level, Heap size, optimization level, apktool version, smali version, language...).
  - Error detection. If error occured, program reports about it.
  - Logs (For batch Decompilation/Compilation program creates two logs. First is full and second shows only with what apks occured errors).
  - Decompile/Compile jar files(framework files)
  - All stuff i forgot
- - If you need other functions - let me know and i'll try to add them in future versions
-
-Credits: 
- Brut.all & iBotPeaches for apktool
- Igor Pavlov for 7zip
- Google for Android, aapt, adb and zipaling
- Authors of all other tools
