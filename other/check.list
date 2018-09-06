@@ -1,4 +1,4 @@
-apkchanger.exe 639FAD3F7CF849CB87709E32534374CF false
+apkchanger.exe E1712C7EDD403C828D1087C39A86059C false
 other/7z.dll 04E4F293970589EAD1DC19FC8BE60C92 true
 other/7z.exe 77E556CDFDC5C592F5C46DB4127C6F4C false
 other/aapt.exe 7B1E9887437ADCFDBA061E1D85D5FD5A true
@@ -387,10 +387,10 @@ other/jre/lib/security/policy/limited/local_policy.jar 57AAAA3176DC28FC554EF0906
 other/jre/lib/security/policy/limited/US_export_policy.jar EE4ED9C75A1AAA04DFD192382C57900C false
 other/jre/lib/security/policy/unlimited/local_policy.jar DABFCB23D7BF9BF5A201C3F6EA9BFB2C false
 other/jre/lib/security/policy/unlimited/US_export_policy.jar EF6E8EAE7D1876D7F05D765D2C2E0529 false
-other/lang/deu A6EFAE2B5F664F7775A8D303BB0EF1EC false
-other/lang/dut A5127B47FBFD11E831BC3FBB99469619 false
-other/lang/eng 933BA35B422E0F6822F782B9AEBE8288 false
-other/lang/rus 176560356D244EE08CE6083722BB1082 false
+other/lang/deu D61577B153C5000A3590E5E2D4E3C809 false
+other/lang/dut 83F1A613DCC66FAA50A0B6A8A14C956B false
+other/lang/eng 17FFCC6DEDD105C25C3AD1CF0278C574 false
+other/lang/rus 928CA6DC8AD7DA61ACBEE94BE022BA83 false
 other/lib/antlr-3.5.2.jar 5F106B3785B1E9F5660C3F0AA3496045 false
 other/lib/antlr-runtime-3.5.2.jar 1FBBAE2CB72530207C20B797BDABD029 false
 other/lib/antlr4-4.5.jar 8F13B1ACFEF508AA9C3109CC5E65FD65 false
