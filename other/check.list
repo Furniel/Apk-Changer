@@ -1,4 +1,4 @@
-apkchanger.exe 4FADB0304305A9C876404DA59E3BF91A false
+apkchanger.exe 7EF98E4C26CC472E2E07D5A891EE726C false
 other/7z.dll 04E4F293970589EAD1DC19FC8BE60C92 true
 other/7z.exe 77E556CDFDC5C592F5C46DB4127C6F4C false
 other/aapt.exe ED95D2EB8A1B53C719C26C913614D219 true
@@ -10,7 +10,7 @@ other/advdef.exe 616F7C166BD93C4CDB706ED0B691C94A false
 other/AndResGuard.jar 9BD0391F455A7A7612195271C26B0BFE false
 other/andres_config.xml 0C4A1E51241B5ABD90E63EBB0E5A7CB7 false
 other/anyxperia_dumper.exe C5CAF59631ED8445E37981E4341D459B false
-other/ApkChangerHelper.jar A980B771C6817AAD3F15587584BDEAB5 false
+other/ApkChangerHelper.jar 116D870C8E709CD53CCFC218FB8694FE false
 other/ApkChangerHelperNotWorkingApps.list 6E1631907278793533BC94A907D9FD9E false
 other/apksigner.jar 8E9F18A1D63ED5F64A335219ECE8D7F7 false
 other/apktool1.jar 5DDA384CCA8201DF55ACD9D269E9BC0D false
@@ -95,6 +95,7 @@ other/zipalign.exe B161ADDA26A377AC9AFCA3D2E1049946 false
 other/zipalignall.exe BA4369D6A25A676006751B3E4B74C080 false
 other/cdexconv/arm64-v8a/bin/compact_dex_converter CE74B4860DAEDB2C281F00C4652B5C15 true
 other/cdexconv/armeabi-v7a/bin/compact_dex_converter 1CD2098D4A16B52C23D96419844CD0C4 true
+other/cdexconv/linux/compact_dex_converter 6C2563CCF9CE2D4F36708B671F85EFF8 true
 other/cdexconv/x86/bin/compact_dex_converter A6B9EF79F9E0594EC2BC4EE97A79F393 true
 other/cdexconv/x86_64/bin/compact_dex_converter 25008B96C7E1FE0683AEECA542D99D8E true
 other/frameworks/framework-res_api10.apk D010217180E3D62656E3A28BF237B932 false
