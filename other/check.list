@@ -811,10 +811,10 @@ other/x64/jre/conf/security/java.policy FBF2B55342947695AA2A15E3485ED29F false
 other/x64/jre/conf/security/java.security 1D6E5B1DC30E6CE3E50D842B2B95E1E6 false
 other/x64/jre/conf/security/policy/README.txt 3D47D94BC4F19D18BCC8B23F51D013AF false
 other/x64/jre/conf/security/policy/limited/default_local.policy 6D7B4616A5DBA477B6B6D3F9A12E568F false
-other/x64/jre/conf/security/policy/limited/default_US_export.policy A658F5A9CB2C6A606D30C3DD909EDD60 false
-other/x64/jre/conf/security/policy/limited/exempt_local.policy B4BC0EDCCF4B0C7D74A2FFE3B63AFD9A false
-other/x64/jre/conf/security/policy/unlimited/default_local.policy A9320A41AC8208A54979900A8FF67DD9 false
-other/x64/jre/conf/security/policy/unlimited/default_US_export.policy A658F5A9CB2C6A606D30C3DD909EDD60 false
+other/x64/jre/conf/security/policy/limited/default_US_export.policy 1A08FFDF0BC871296C8D698FB22F542A false
+other/x64/jre/conf/security/policy/limited/exempt_local.policy 4CBB03F484C86CBEA1A217BAAE07D3C9 false
+other/x64/jre/conf/security/policy/unlimited/default_local.policy 2A0F330C51AFF13A96AF8BD5082C84A8 false
+other/x64/jre/conf/security/policy/unlimited/default_US_export.policy 1A08FFDF0BC871296C8D698FB22F542A false
 other/x64/jre/lib/classlist 1ABD37E67EC9AB8E798AFB8310611CCA false
 other/x64/jre/lib/ct.sym 22397F16C63C2C1889CDAFF5154F07F3 false
 other/x64/jre/lib/fontconfig.bfc 0E5EC0EA2AF566C4F8FA91BD079C5C22 false
@@ -834,7 +834,7 @@ other/x64/jre/lib/security/blacklisted.certs BBEBCF13680E71EC2EE562524DA02660 fa
 other/x64/jre/lib/security/cacerts 00109F7234E6FFFE0FAF1D67D5A3F783 false
 other/x64/jre/lib/security/default.policy 1423212860EE06F026865687DDF8B1D3 false
 other/x64/jre/lib/security/public_suffix_list.dat 63C58208B50553108EDE4FC1A34AB30C false
-other/x64/jre/lib/server/Xusage.txt CCFD2D5009F56FD122BA4BBCFB7B607D false
+other/x64/jre/lib/server/Xusage.txt 3D780DD3BF8219E52483ED6AC3A17A50 false
 other/x64/python/libcrypto-1_1-x64.dll 022A61849ADAB67E3A59BCF4D0F1C40B true
 other/x64/python/libssl-1_1-x64.dll 4EC3C7FE06B18086F83A18FFBB3B9B55 false
 other/x64/python/pyexpat.pyd C07E41D262AFD5EA693D38D7217E0AB0 false
