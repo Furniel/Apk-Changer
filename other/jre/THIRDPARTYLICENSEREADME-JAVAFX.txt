@@ -423,11 +423,11 @@ assumed by the product vendor.
 ***************************************************************************
 
 %%The following software may be included in this product:
-GStreamer v0.10.35
+GStreamer v1.14.0
 
-You are receiving a copy of GStreamer, Version: 0.10.35 in either source or
+You are receiving a copy of GStreamer, Version: 1.14.0 in either source or
 object code in the JavaFX runtime or JavaFX SDK. The terms of the
-Oracle license do NOT apply to the GStreamer, Version: 0.10.35; it is
+Oracle license do NOT apply to the GStreamer, Version: 1.14.0; it is
 licensed under the following license, separately from the Oracle programs
 you receive. If you do not wish to install this library, you may delete
 this library:
@@ -955,11 +955,11 @@ That's all there is to it!
 ***************************************************************************
 
 %%The following software may be included in this product:
-Glib v2.28.8
+Glib v2.56.1
 
-You are receiving a copy of GNU Glib, Version: 2.28.8 in either source or
+You are receiving a copy of GNU Glib, Version: 2.56.1 in either source or
 object code in the JavaFX runtime or JavaFX SDK. The terms of the
-Oracle license do NOT apply to the GNU Glib, Version: 2.28.8; it is
+Oracle license do NOT apply to the GNU Glib, Version: 2.56.1; it is
 licensed under the following license, separately from the Oracle programs
 you receive. If you do not wish to install this library, you may delete
 this library:
@@ -1482,6 +1482,33 @@ necessary.  Here is a sample; alter the names:
   Ty Coon, President of Vice
 
 That's all there is to it!
+
+***************************************************************************
+
+%%The following software may be included in this product:
+LibFFI v3.2.1
+
+libffi - Copyright (c) 1996-2014  Anthony Green, Red Hat, Inc and others.
+See source files for details.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+``Software''), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED ``AS IS'', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ***************************************************************************
 
