@@ -10,10 +10,6 @@ javax/crypto
 sun/security
 META-INF/ORACLE_J.RSA
 META-INF/ORACLE_J.SF
-# jfr.jar
-oracle/jrockit/
-jdk/jfr
-com/oracle/jrockit/
 ! jsse.jar
 sun/security
 com/sun/net/

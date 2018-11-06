@@ -156,8 +156,8 @@ java/lang/ref/Reference$1
 jdk/internal/misc/JavaLangRefAccess
 jdk/internal/misc/SharedSecrets
 java/lang/ref/Finalizer$FinalizerThread
-java/lang/StringLatin1
 jdk/internal/misc/VM
+java/lang/StringLatin1
 java/util/Properties$EntrySet
 java/util/concurrent/ConcurrentHashMap$EntrySetView
 java/util/concurrent/ConcurrentHashMap$CollectionView
@@ -546,14 +546,9 @@ jdk/internal/loader/Resource
 java/util/jar/Attributes
 java/util/jar/Manifest$FastInputStream
 java/util/jar/Attributes$Name
-java/util/jar/JarVerifier
-sun/security/util/Debug
-java/security/CodeSigner
-java/io/ByteArrayOutputStream
 java/lang/Package
 java/lang/NamedPackage
 java/lang/Package$VersionInfo
-sun/security/util/ManifestEntryVerifier
 sun/nio/ByteBuffered
 java/security/SecureClassLoader$CodeSourceKey
 java/security/SecureClassLoader$1
@@ -575,6 +570,7 @@ java/security/UnresolvedPermission
 java/lang/RuntimePermission
 java/security/BasicPermissionCollection
 java/security/SecureClassLoader$DebugHolder
+sun/security/util/Debug
 java/time/temporal/TemporalAccessor
 java/lang/PublicMethods$MethodList
 java/lang/PublicMethods$Key
@@ -827,8 +823,8 @@ sun/nio/ch/FileDispatcher
 sun/nio/ch/NativeDispatcher
 sun/nio/ch/FileChannelImpl$Closer
 jdk/internal/jimage/BasicImageReader$2
-java/io/IOException
 java/nio/channels/FileLock
+java/io/IOException
 java/nio/channels/FileChannel$MapMode
 sun/nio/ch/NativeThread
 sun/nio/ch/IOStatus
