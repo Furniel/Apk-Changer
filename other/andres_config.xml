@@ -78,8 +78,23 @@
         <!-- Firebase -->
         <!-- firStore -->
         <path value="*.R.string.project_id"/>
-        <!-- Huawei push -->
-        <path value="*.R.string.hms_update_title"/>
+        <!-- Huawei-->		
+        <path value="R.string.hms_*"/>
+        <path value="R.string.connect_server_fail_prompt_toast"/>
+        <path value="R.string.getting_message_fail_prompt_toast"/>
+        <path value="R.string.no_available_network_prompt_toast"/>
+        <path value="R.string.third_app_*"/>
+        <path value="R.string.upsdk_*"/>
+        <path value="R.style.upsdkDlDialog"/>
+        <path value="R.style.AppTheme"/>
+        <path value="R.style.AppBaseTheme"/>
+        <path value="R.dimen.upsdk_dialog_*"/>
+        <path value="R.color.upsdk_*"/>
+        <path value="R.layout.upsdk_*"/>
+        <path value="R.drawable.upsdk_*"/>
+        <path value="R.drawable.hms_*"/>
+        <path value="R.layout.hms_*"/>
+        <path value="R.id.hms_*""/>
     </issue>
 
     <!--keepmapping, sometimes if we need to support incremental upgrade, we should keep the old mapping-->
