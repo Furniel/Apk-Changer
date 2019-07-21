@@ -324,6 +324,7 @@ java/io/File$PathStatus
 sun/net/www/ParseUtil
 sun/net/www/protocol/file/Handler
 java/net/URLStreamHandler
+sun/net/util/IPAddressUtil
 java/util/ArrayDeque
 java/util/Deque
 java/util/Queue

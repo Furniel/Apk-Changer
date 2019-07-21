@@ -324,6 +324,7 @@ java/io/File$PathStatus
 sun/net/www/ParseUtil
 sun/net/www/protocol/file/Handler
 java/net/URLStreamHandler
+sun/net/util/IPAddressUtil
 java/util/ArrayDeque
 java/util/Deque
 java/util/Queue
@@ -817,8 +818,8 @@ sun/nio/ch/FileDispatcher
 sun/nio/ch/NativeDispatcher
 sun/nio/ch/FileChannelImpl$Closer
 jdk/internal/jimage/BasicImageReader$2
-java/nio/channels/FileLock
 java/io/IOException
+java/nio/channels/FileLock
 java/nio/channels/FileChannel$MapMode
 jdk/internal/jimage/ImageHeader
 java/nio/DirectByteBuffer$Deallocator
