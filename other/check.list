@@ -1,4 +1,4 @@
-apkchanger.exe B4B54D2B47CA31BCAE0ABA218F51D4F6 false
+apkchanger.exe 8B6BC39B90B4A4422B4E8CEAFE7F5A5E false
 other/7z.dll 8915C81B1DA3F8E9AC6D9CB7F9B7C105 true
 other/7z.exe A42B35F975D88C1370A7AFF084EE57A7 false
 other/aapt.exe 6A9F5A426472B468C691B529C063F9C9 true
@@ -113,12 +113,12 @@ other/frameworks/framework-res_api25.apk 0CA8A014A5F8AA6391872BD47F72C57D false
 other/frameworks/framework-res_api26.apk 41D0EA9EECF7E7B55EF82819646A1559 false
 other/frameworks/framework-res_api27.apk A6D0BD267DB9E7198749BB5E9BCA31D7 false
 other/frameworks/framework-res_api28.apk 54CA6A6B6C4309A0ED34F283DB375D55 false
-other/frameworks/framework-res_api29.apk 0D722DC8307B7762A554F0863DF1EF79 false
+other/frameworks/framework-res_api29.apk 3A2E9C8DC26C0E764A8961E7E25EB7BE false
 other/frameworks/framework-res_api3.apk B8C3539E7E9EF9471EDBE99E0E67F0A9 false
 other/frameworks/framework-res_api4.apk B4BD01209005E8FCC8253C9CF34B8239 false
 other/frameworks/framework-res_api7.apk D2EEB7D1A797E389F5FA85E33C9F5FDD false
 other/frameworks/framework-res_api8.apk C904E17A019BB00D3F9EDE05AE82278A false
-other/frameworks/frameworkslist.txt F0C1A2ECEB952039355E115B48C70C3B false
+other/frameworks/frameworkslist.txt 05A0D66043D2D1CAB5D62893609FBB0D false
 other/jadx/android-29-clst.jar 65D75BBCC3F6A6DB4E06AEA1FD4F8699 false
 other/jadx/android-29-res.jar 80A899534CBAE4C1F9B837327DBC0455 false
 other/jadx/animal-sniffer-annotations-1.17.jar 7CA108B790CF6AB5DBF5422CC79F0D89 false
