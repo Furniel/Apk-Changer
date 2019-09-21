@@ -86,7 +86,6 @@ Central European Standard Time:HR:Europe/Zagreb:
 Central European Standard Time:MK:Europe/Skopje:
 Central European Standard Time:PL:Europe/Warsaw:
 Central European Standard Time:001:Europe/Warsaw:
-Central Pacific Standard Time:AQ:Antarctica/Casey:
 Central Pacific Standard Time:AU:Antarctica/Macquarie:
 Central Pacific Standard Time:FM:Pacific/Ponape:
 Central Pacific Standard Time:NC:Pacific/Noumea:
@@ -163,7 +162,7 @@ GMT Standard Time:IM:Europe/Isle_of_Man:
 GMT Standard Time:JE:Europe/Jersey:
 GMT Standard Time:PT:Europe/Lisbon:
 GMT Standard Time:001:Europe/London:
-GTB Standard Time:CY:Asia/Nicosia:
+GTB Standard Time:CY:Asia/Famagusta:
 GTB Standard Time:GR:Europe/Athens:
 GTB Standard Time:RO:Europe/Bucharest:
 GTB Standard Time:001:Europe/Bucharest:
@@ -348,6 +347,8 @@ Sakhalin Standard Time:RU:Asia/Sakhalin:
 Sakhalin Standard Time:001:Asia/Sakhalin:
 Samoa Standard Time:WS:Pacific/Apia:
 Samoa Standard Time:001:Pacific/Apia:
+Sao Tome Standard Time:ST:Africa/Sao_Tome:
+Sao Tome Standard Time:001:Africa/Sao_Tome:
 Saratov Standard Time:RU:Europe/Saratov:
 Saratov Standard Time:001:Europe/Saratov:
 Singapore Standard Time:BN:Asia/Brunei:
@@ -394,7 +395,6 @@ Tonga Standard Time:TO:Pacific/Tongatapu:
 Tonga Standard Time:001:Pacific/Tongatapu:
 Transbaikal Standard Time:RU:Asia/Chita:
 Transbaikal Standard Time:001:Asia/Chita:
-Turkey Standard Time:CY:Asia/Famagusta:
 Turkey Standard Time:TR:Europe/Istanbul:
 Turkey Standard Time:001:Europe/Istanbul:
 Turks And Caicos Standard Time:TC:America/Grand_Turk:
@@ -442,6 +442,7 @@ Venezuela Standard Time:VE:America/Caracas:
 Venezuela Standard Time:001:America/Caracas:
 Vladivostok Standard Time:RU:Asia/Vladivostok:
 Vladivostok Standard Time:001:Asia/Vladivostok:
+W. Australia Standard Time:AQ:Antarctica/Casey:
 W. Australia Standard Time:AU:Australia/Perth:
 W. Australia Standard Time:001:Australia/Perth:
 W. Central Africa Standard Time:AO:Africa/Luanda:
@@ -455,7 +456,6 @@ W. Central Africa Standard Time:GA:Africa/Libreville:
 W. Central Africa Standard Time:GQ:Africa/Malabo:
 W. Central Africa Standard Time:NE:Africa/Niamey:
 W. Central Africa Standard Time:NG:Africa/Lagos:
-W. Central Africa Standard Time:ST:Africa/Sao_Tome:
 W. Central Africa Standard Time:TD:Africa/Ndjamena:
 W. Central Africa Standard Time:TN:Africa/Tunis:
 W. Central Africa Standard Time:ZZ:Etc/GMT-1:
