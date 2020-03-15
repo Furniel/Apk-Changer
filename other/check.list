@@ -91,7 +91,7 @@ other/zipalign.exe D4288BDDBAAED724A8E4258E5D68E2E0 true
 other/zipalignall.exe EAE9FAD400D8B25E66B9B636B3BB459C false
 other/cdexconv/arm64-v8a/compact_dex_converter D6FA47B75537C1BD4433298F21B34BBC true
 other/cdexconv/armeabi-v7a/compact_dex_converter 355DEC2FAB39F6BCA42BC28D426034CB true
-other/cdexconv/linux/compact_dex_converter 0FC2D3B858940A927E0F3FF22574A3B1 true
+other/cdexconv/linux/compact_dex_converter 2D73804DBC84A340F9D663E3436E891E true
 other/cdexconv/x86/compact_dex_converter B3806923FDEF76F24C146792B7404221 true
 other/cdexconv/x86_64/compact_dex_converter BEA31A6BDC17287051B8227BA061C498 true
 other/frameworks/framework-res_api10.apk D010217180E3D62656E3A28BF237B932 false
