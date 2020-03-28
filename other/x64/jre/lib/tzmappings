@@ -162,7 +162,7 @@ GMT Standard Time:IM:Europe/Isle_of_Man:
 GMT Standard Time:JE:Europe/Jersey:
 GMT Standard Time:PT:Europe/Lisbon:
 GMT Standard Time:001:Europe/London:
-GTB Standard Time:CY:Asia/Famagusta:
+GTB Standard Time:CY:Asia/Nicosia:
 GTB Standard Time:GR:Europe/Athens:
 GTB Standard Time:RO:Europe/Bucharest:
 GTB Standard Time:001:Europe/Bucharest:
@@ -214,7 +214,6 @@ Lord Howe Standard Time:AU:Australia/Lord_Howe:
 Lord Howe Standard Time:001:Australia/Lord_Howe:
 Magadan Standard Time:RU:Asia/Magadan:
 Magadan Standard Time:001:Asia/Magadan:
-Magallanes Standard Time:AQ:Antarctica/Palmer:
 Magallanes Standard Time:CL:America/Punta_Arenas:
 Magallanes Standard Time:001:America/Punta_Arenas:
 Marquesas Standard Time:PF:Pacific/Marquesas:
@@ -273,6 +272,8 @@ Pakistan Standard Time:PK:Asia/Karachi:
 Pakistan Standard Time:001:Asia/Karachi:
 Paraguay Standard Time:PY:America/Asuncion:
 Paraguay Standard Time:001:America/Asuncion:
+Qyzylorda Standard Time:KZ:Asia/Qyzylorda:
+Qyzylorda Standard Time:001:Asia/Qyzylorda:
 Romance Standard Time:BE:Europe/Brussels:
 Romance Standard Time:DK:Europe/Copenhagen:
 Romance Standard Time:ES:Europe/Madrid:
@@ -351,6 +352,7 @@ Sao Tome Standard Time:ST:Africa/Sao_Tome:
 Sao Tome Standard Time:001:Africa/Sao_Tome:
 Saratov Standard Time:RU:Europe/Saratov:
 Saratov Standard Time:001:Europe/Saratov:
+Singapore Standard Time:AQ:Antarctica/Casey:
 Singapore Standard Time:BN:Asia/Brunei:
 Singapore Standard Time:ID:Asia/Makassar:
 Singapore Standard Time:MY:Asia/Kuala_Lumpur:
@@ -442,7 +444,8 @@ Venezuela Standard Time:VE:America/Caracas:
 Venezuela Standard Time:001:America/Caracas:
 Vladivostok Standard Time:RU:Asia/Vladivostok:
 Vladivostok Standard Time:001:Asia/Vladivostok:
-W. Australia Standard Time:AQ:Antarctica/Casey:
+Volgograd Standard Time:RU:Europe/Volgograd:
+Volgograd Standard Time:001:Europe/Volgograd:
 W. Australia Standard Time:AU:Australia/Perth:
 W. Australia Standard Time:001:Australia/Perth:
 W. Central Africa Standard Time:AO:Africa/Luanda:
