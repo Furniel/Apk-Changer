@@ -1022,10 +1022,6 @@ sun/util/calendar/ZoneInfoFile
 sun/util/calendar/ZoneInfoFile$1
 java/io/DataInputStream
 sun/util/calendar/ZoneInfoFile$ZoneOffsetTransitionRule
-sun/util/calendar/ZoneInfoFile$Checksum
-java/util/zip/CRC32
-java/util/zip/Checksum
-java/util/zip/Checksum$1
 sun/util/spi/CalendarProvider
 sun/util/locale/provider/CalendarProviderImpl
 java/util/Calendar$Builder
@@ -1157,14 +1153,8 @@ java/time/zone/ZoneRulesProvider$1
 java/time/zone/TzdbZoneRulesProvider
 java/time/zone/Ser
 java/io/Externalizable
-java/time/Month
-java/time/DayOfWeek
-java/time/zone/ZoneOffsetTransitionRule$TimeDefinition
-java/time/zone/ZoneOffsetTransition
 java/time/ZonedDateTime
 java/time/chrono/ChronoZonedDateTime
-java/time/temporal/TemporalAdjusters
-java/time/zone/ZoneOffsetTransitionRule$1
 java/util/logging/LogRecord$CallerFinder
 java/lang/StackWalker$Option
 java/lang/StackStreamFactory
