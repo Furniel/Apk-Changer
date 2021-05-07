@@ -86,7 +86,7 @@ Central European Standard Time:HR:Europe/Zagreb:
 Central European Standard Time:MK:Europe/Skopje:
 Central European Standard Time:PL:Europe/Warsaw:
 Central European Standard Time:001:Europe/Warsaw:
-Central Pacific Standard Time:AU:Antarctica/Macquarie:
+Central Pacific Standard Time:AQ:Antarctica/Casey:
 Central Pacific Standard Time:FM:Pacific/Ponape:
 Central Pacific Standard Time:NC:Pacific/Noumea:
 Central Pacific Standard Time:SB:Pacific/Guadalcanal:
@@ -352,7 +352,6 @@ Sao Tome Standard Time:ST:Africa/Sao_Tome:
 Sao Tome Standard Time:001:Africa/Sao_Tome:
 Saratov Standard Time:RU:Europe/Saratov:
 Saratov Standard Time:001:Europe/Saratov:
-Singapore Standard Time:AQ:Antarctica/Casey:
 Singapore Standard Time:BN:Asia/Brunei:
 Singapore Standard Time:ID:Asia/Makassar:
 Singapore Standard Time:MY:Asia/Kuala_Lumpur:
@@ -403,7 +402,7 @@ Turks And Caicos Standard Time:TC:America/Grand_Turk:
 Turks And Caicos Standard Time:001:America/Grand_Turk:
 US Eastern Standard Time:US:America/Indianapolis:
 US Eastern Standard Time:001:America/Indianapolis:
-US Mountain Standard Time:CA:America/Dawson_Creek:
+US Mountain Standard Time:CA:America/Whitehorse:
 US Mountain Standard Time:MX:America/Hermosillo:
 US Mountain Standard Time:US:America/Phoenix:
 US Mountain Standard Time:ZZ:Etc/GMT+7:

@@ -54,6 +54,7 @@
 
     <event name="jdk.ThreadStart">
       <setting name="enabled">true</setting>
+      <setting name="stackTrace">true</setting>
     </event>
 
     <event name="jdk.ThreadEnd">
@@ -90,6 +91,11 @@
       <setting name="threshold" control="synchronization-threshold">20 ms</setting>
     </event>
 
+    <event name="jdk.SyncOnValueBasedClass">
+      <setting name="enabled">true</setting>
+      <setting name="stackTrace">true</setting>
+    </event>
+
     <event name="jdk.BiasedLockRevocation">
       <setting name="enabled">true</setting>
       <setting name="stackTrace">true</setting>
@@ -122,6 +128,22 @@
     <event name="jdk.ClassDefine">
       <setting name="enabled" control="class-loading-enabled">false</setting>
       <setting name="stackTrace">true</setting>
+    </event>
+
+    <event name="jdk.RedefineClasses">
+      <setting name="enabled">true</setting>
+      <setting name="stackTrace">true</setting>
+      <setting name="threshold">0 ms</setting>
+    </event>
+
+    <event name="jdk.RetransformClasses">
+      <setting name="enabled">true</setting>
+      <setting name="stackTrace">true</setting>
+      <setting name="threshold">0 ms</setting>
+    </event>
+
+    <event name="jdk.ClassRedefinition">
+      <setting name="enabled" control="class-loading-enabled">true</setting>
     </event>
 
     <event name="jdk.ClassUnload">
@@ -252,7 +274,7 @@
     </event>
 
     <event name="jdk.ObjectCount">
-      <setting name="enabled" control="memory-profiling-enabled-all">false</setting>
+      <setting name="enabled" control="heap-statistics-enabled">false</setting>
       <setting name="period">everyChunk</setting>
     </event>
 
@@ -374,6 +396,11 @@
       <setting name="threshold">0 ms</setting>
     </event>
 
+    <event name="jdk.GCPhaseConcurrentLevel1">
+      <setting name="enabled" control="gc-enabled-all">true</setting>
+      <setting name="threshold">0 ms</setting>
+    </event>
+
     <event name="jdk.GCReferenceStatistics">
       <setting name="enabled" control="gc-enabled-normal">true</setting>
     </event>
@@ -416,11 +443,11 @@
     </event>
 
     <event name="jdk.PromoteObjectInNewPLAB">
-      <setting name="enabled" control="memory-profiling-enabled-medium">false</setting>
+      <setting name="enabled" control="promotion-enabled">false</setting>
     </event>
 
     <event name="jdk.PromoteObjectOutsidePLAB">
-      <setting name="enabled" control="memory-profiling-enabled-medium">false</setting>
+      <setting name="enabled" control="promotion-enabled">false</setting>
     </event>
 
     <event name="jdk.ConcurrentModeFailure">
@@ -557,6 +584,11 @@
       <setting name="period">endChunk</setting>
     </event>
 
+    <event name="jdk.ProcessStart">
+      <setting name="enabled">true</setting>
+      <setting name="stackTrace">true</setting>
+    </event>
+
     <event name="jdk.NetworkUtilization">
       <setting name="enabled">true</setting>
       <setting name="period">5 s</setting>
@@ -573,12 +605,18 @@
     </event>
 
     <event name="jdk.ObjectAllocationInNewTLAB">
-      <setting name="enabled" control="memory-profiling-enabled-medium">false</setting>
+      <setting name="enabled">false</setting>
       <setting name="stackTrace">true</setting>
     </event>
 
     <event name="jdk.ObjectAllocationOutsideTLAB">
-      <setting name="enabled" control="memory-profiling-enabled-medium">false</setting>
+      <setting name="enabled">false</setting>
+      <setting name="stackTrace">true</setting>
+    </event>
+
+    <event name="jdk.ObjectAllocationSample">
+      <setting name="enabled" control="enable-object-allocation">true</setting>
+      <setting name="throttle" control="object-allocation-rate">150/s</setting>
       <setting name="stackTrace">true</setting>
     </event>
 
@@ -683,12 +721,23 @@
       <setting name="enabled">true</setting>
     </event>
 
-    <event name="jdk.ZPageAllocation">
+    <event name="jdk.ZAllocationStall">
       <setting name="enabled">true</setting>
-      <setting name="threshold">10 ms</setting>
+      <setting name="threshold">0 ms</setting>
     </event>
 
-    <event name="jdk.ZThreadPhase">
+    <event name="jdk.ZPageAllocation">
+      <setting name="enabled">true</setting>
+      <setting name="stackTrace">true</setting>
+      <setting name="threshold">1 ms</setting>
+    </event>
+
+    <event name="jdk.ZRelocationSet">
+      <setting name="enabled">true</setting>
+      <setting name="threshold">0 ms</setting>
+    </event>
+
+    <event name="jdk.ZRelocationSetGroup">
       <setting name="enabled">true</setting>
       <setting name="threshold">0 ms</setting>
     </event>
@@ -703,11 +752,36 @@
       <setting name="threshold">0 ms</setting>
     </event>
 
+    <event name="jdk.ZThreadPhase">
+      <setting name="enabled">false</setting>
+      <setting name="threshold">0 ms</setting>
+    </event>
+
+    <event name="jdk.ZUncommit">
+      <setting name="enabled">true</setting>
+      <setting name="threshold">0 ms</setting>
+    </event>
+
+    <event name="jdk.ZUnmap">
+      <setting name="enabled">true</setting>
+      <setting name="threshold">0 ms</setting>
+    </event>
+
     <event name="jdk.Deoptimization">
       <setting name="enabled">true</setting>
       <setting name="stackTrace">false</setting>
     </event>
 
+    <event name="jdk.HeapDump">
+      <setting name="enabled">true</setting>
+      <setting name="threshold">0 ns</setting>
+      <setting name="stackTrace">true</setting>
+    </event>
+
+    <event name="jdk.DirectBufferStatistics">
+      <setting name="enabled">true</setting>
+      <setting name="period">5 s</setting>
+    </event>
 
 
 
@@ -758,21 +832,41 @@
         <test name="gc-level" operator="equal" value="all"/>
       </condition>
 
-      <selection name="memory-profiling" default="off" label="Memory Profiling">
+      <selection name="memory-profiling" default="low" label="Memory Profiling">
         <option label="Off" name="off">off</option>
+        <option label="Object Allocation" name="low">low</option>
         <option label="Object Allocation and Promotion" name="medium">medium</option>
         <option label="All, including Heap Statistics (May cause long full GCs)" name="all">all</option>
       </selection>
 
-      <condition name="memory-profiling-enabled-medium" true="true" false="false">
+     <condition name="memory-profiling-enabled-low" true="true" false="false">
+        <test name="memory-profiling" operator="equal" value="low"/>
+      </condition>
+
+      <condition name="object-allocation-enabled" true="true" false="false">
+        <or>
+          <test name="memory-profiling" operator="equal" value="low"/>
+          <test name="memory-profiling" operator="equal" value="medium"/>
+          <test name="memory-profiling" operator="equal" value="all"/>
+        </or>
+      </condition>
+
+      <condition name="object-allocation-rate" true="300/s" false="150/s">
+         <or>
+           <test name="memory-profiling" operator="equal" value="medium"/>
+           <test name="memory-profiling" operator="equal" value="all"/>
+         </or>
+       </condition>
+
+      <condition name="promotion-enabled" true="true" false="false">
         <or>
           <test name="memory-profiling" operator="equal" value="medium"/>
           <test name="memory-profiling" operator="equal" value="all"/>
         </or>
       </condition>
 
-      <condition name="memory-profiling-enabled-all" true="true" false="false">
-        <test name="memory-profiling" operator="equal" value="all"/>
+      <condition name="heap-statistics-enabled" true="true" false="false">
+          <test name="memory-profiling" operator="equal" value="all"/>
       </condition>
 
       <selection name="compiler-level" default="normal" label="Compiler">
@@ -827,7 +921,7 @@
         <option label="High" name="high">high</option>
         <option label="Ludicrous (High Overhead)" name="ludicrous">ludicrous</option>
       </selection>
-      
+
       <condition name="method-sampling-java-interval" true="999 d">
         <test name="method-sampling-interval" operator="equal" value="off"/>
       </condition>
@@ -843,7 +937,7 @@
       <condition name="method-sampling-java-interval" true="1 ms">
         <test name="method-sampling-interval" operator="equal" value="ludicrous"/>
       </condition>
-      
+
       <condition name="method-sampling-native-interval" true="999 d">
         <test name="method-sampling-interval" operator="equal" value="off"/>
       </condition>
@@ -854,7 +948,7 @@
           <test name="method-sampling-interval" operator="equal" value="high"/>
           <test name="method-sampling-interval" operator="equal" value="ludicrous"/>
         </or>
-      </condition>  
+      </condition>
 
       <condition name="method-sampling-enabled" true="false" false="true">
         <test name="method-sampling-interval" operator="equal" value="off"/>
