@@ -1,4 +1,5 @@
 #framework name|framework tag|framework1|framework2|framework3|framework4|framework5|framework6|framework7|framework8|framework9|framework10|framework11|framework12|framework13|framework14
+ANDROID 11.0|api30|framework-res_api30.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
 ANDROID 10.0|api29|framework-res_api29.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
 ANDROID 9.0|api28|framework-res_api28.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
 ANDROID 8.1|api27|framework-res_api27.apk|no|no|no|no|no|no|no|no|no|no|no|no|no

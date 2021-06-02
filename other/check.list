@@ -25,7 +25,7 @@ other/brotli.exe 2A327675A161A0DAA26ACF6D06440ADD false
 other/cfr.jar 0B646A6A63AEA572ABF9777BB733ACD4 false
 other/cocolor.exe D9A3DEF8F569AFDA41FB6E067C5F3DF3 false
 other/coloredlogcat.exe 80D7DC088D7B6C5BAA43066B9EBE69C0 false
-other/convert.exe 8291A8858F33E01EDBB14E36E00F4A9C true
+other/convert.exe A2D2B780DA7715C311C45BF52309BA2E true
 other/cwebp.exe 524C78A9F1C2D658F37BFEBEE852C134 true
 other/cyggcc_s-1.dll 1925B7F4369C2A3E9497B82917A33362 false
 other/cygwin1.dll C3599AF33FBF8F08DA7F0F141E0BEDD6 true
@@ -112,13 +112,14 @@ other/frameworks/framework-res_api24.apk 6EF1739619231C225F7BCCBF344835B0 false
 other/frameworks/framework-res_api25.apk 0CA8A014A5F8AA6391872BD47F72C57D false
 other/frameworks/framework-res_api26.apk 41D0EA9EECF7E7B55EF82819646A1559 false
 other/frameworks/framework-res_api27.apk A6D0BD267DB9E7198749BB5E9BCA31D7 false
-other/frameworks/framework-res_api28.apk 54CA6A6B6C4309A0ED34F283DB375D55 false
-other/frameworks/framework-res_api29.apk 4513EEF75E4308C4C8AF82BACBCE54A4 false
+other/frameworks/framework-res_api28.apk 3900C6060E44CCF7F838014431A8227B false
+other/frameworks/framework-res_api29.apk 04340B8F21DB956DBE5B6F0E65D63EA5 false
 other/frameworks/framework-res_api3.apk B8C3539E7E9EF9471EDBE99E0E67F0A9 false
+other/frameworks/framework-res_api30.apk 97FB92FE8AEAA9B1BBE94F843D67DC6D false
 other/frameworks/framework-res_api4.apk B4BD01209005E8FCC8253C9CF34B8239 false
 other/frameworks/framework-res_api7.apk D2EEB7D1A797E389F5FA85E33C9F5FDD false
 other/frameworks/framework-res_api8.apk C904E17A019BB00D3F9EDE05AE82278A false
-other/frameworks/frameworkslist.txt 05A0D66043D2D1CAB5D62893609FBB0D false
+other/frameworks/frameworkslist.txt E0BD38F1A6800CB191A291CD153E75CE false
 other/jadx/aapt2-proto-4.1.3-6503028.jar C0C0D5BBD48BADF791A7E4F21EA719F7 false
 other/jadx/antlr-2.7.7.jar F8F1352C52A4C6A500B597596501FC64 false
 other/jadx/antlr-3.5.2.jar 5F106B3785B1E9F5660C3F0AA3496045 false
@@ -520,7 +521,7 @@ other/x64/anyxperia_dumper.exe 86ED028CDC6454B266C4CCCC0880A404 false
 other/x64/brotli.exe 53BAA9F6019396D1CF5ABA03D26CCD5C false
 other/x64/cocolor.exe 1353362CA5BDCCEEBA2BEC0682213363 false
 other/x64/coloredlogcat.exe B3AB6A0913574F8EA2C6F0885AD9F07E false
-other/x64/convert.exe 856CB3076401015E94CA9E26FD3A026C true
+other/x64/convert.exe 06D9D0AFB4C5B8291AA26A69BE2E3B65 true
 other/x64/cwebp.exe 50566EBCC9C35C5487BBA437E21ADC8F true
 other/x64/cyggcc_s-seh-1.dll CA96D323D69424811F32F62F6AA5963E false
 other/x64/cygwin1.dll 42C5EB56AE8BE10F34B53BEF76CAA24E true
