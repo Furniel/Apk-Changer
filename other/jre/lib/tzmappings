@@ -118,7 +118,6 @@ E. Africa Standard Time:KE:Africa/Nairobi:
 E. Africa Standard Time:KM:Indian/Comoro:
 E. Africa Standard Time:MG:Indian/Antananarivo:
 E. Africa Standard Time:SO:Africa/Mogadishu:
-E. Africa Standard Time:SS:Africa/Juba:
 E. Africa Standard Time:TZ:Africa/Dar_es_Salaam:
 E. Africa Standard Time:UG:Africa/Kampala:
 E. Africa Standard Time:YT:Indian/Mayotte:
@@ -173,6 +172,7 @@ Greenland Standard Time:001:America/Godthab:
 Greenwich Standard Time:BF:Africa/Ouagadougou:
 Greenwich Standard Time:CI:Africa/Abidjan:
 Greenwich Standard Time:GH:Africa/Accra:
+Greenwich Standard Time:GL:America/Danmarkshavn:
 Greenwich Standard Time:GM:Africa/Banjul:
 Greenwich Standard Time:GN:Africa/Conakry:
 Greenwich Standard Time:GW:Africa/Bissau:
@@ -366,6 +366,7 @@ South Africa Standard Time:LS:Africa/Maseru:
 South Africa Standard Time:MW:Africa/Blantyre:
 South Africa Standard Time:MZ:Africa/Maputo:
 South Africa Standard Time:RW:Africa/Kigali:
+South Africa Standard Time:SS:Africa/Juba:
 South Africa Standard Time:SZ:Africa/Mbabane:
 South Africa Standard Time:ZA:Africa/Johannesburg:
 South Africa Standard Time:ZM:Africa/Lusaka:
@@ -402,14 +403,13 @@ Turks And Caicos Standard Time:TC:America/Grand_Turk:
 Turks And Caicos Standard Time:001:America/Grand_Turk:
 US Eastern Standard Time:US:America/Indianapolis:
 US Eastern Standard Time:001:America/Indianapolis:
-US Mountain Standard Time:CA:America/Whitehorse:
+US Mountain Standard Time:CA:America/Creston:
 US Mountain Standard Time:MX:America/Hermosillo:
 US Mountain Standard Time:US:America/Phoenix:
 US Mountain Standard Time:ZZ:Etc/GMT+7:
 US Mountain Standard Time:001:America/Phoenix:
-UTC:GL:America/Danmarkshavn:
-UTC:ZZ:Etc/GMT:
-UTC:001:Etc/GMT:
+UTC:ZZ:Etc/UTC:
+UTC:001:Etc/UTC:
 UTC+12:KI:Pacific/Tarawa:
 UTC+12:MH:Pacific/Majuro:
 UTC+12:NR:Pacific/Nauru:
@@ -501,3 +501,5 @@ West Pacific Standard Time:ZZ:Etc/GMT-10:
 West Pacific Standard Time:001:Pacific/Port_Moresby:
 Yakutsk Standard Time:RU:Asia/Yakutsk:
 Yakutsk Standard Time:001:Asia/Yakutsk:
+Yukon Standard Time:CA:America/Whitehorse:
+Yukon Standard Time:001:America/Whitehorse:

@@ -1,4 +1,6 @@
 #framework name|framework tag|framework1|framework2|framework3|framework4|framework5|framework6|framework7|framework8|framework9|framework10|framework11|framework12|framework13|framework14
+ANDROID 13.0|api32|framework-res_api32.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
+ANDROID 12.0|api31|framework-res_api31.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
 ANDROID 11.0|api30|framework-res_api30.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
 ANDROID 10.0|api29|framework-res_api29.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
 ANDROID 9.0|api28|framework-res_api28.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
@@ -22,5 +24,3 @@ ANDROID 3.0|api11|framework-res_api11.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
 ANDROID 2.3.3|api10|framework-res_api10.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
 ANDROID 2.2|api8|framework-res_api8.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
 ANDROID 2.1|api7|framework-res_api7.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
-ANDROID 1.6|api4|framework-res_api4.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
-ANDROID 1.5|api3|framework-res_api3.apk|no|no|no|no|no|no|no|no|no|no|no|no|no
